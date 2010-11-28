@@ -1,4 +1,4 @@
-#summary Git repository with ASEPRITE source code.
+#summary Get ASEPRITE source code.
 
 = Source Code =
 
