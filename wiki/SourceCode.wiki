@@ -1,0 +1,17 @@
+#summary Git repository with ASEPRITE source code.
+
+= Source Code =
+
+ASEPRITE source code can be obtained cloning the git repository from github.com:
+
+{{{
+git clone git://github.com/dacap/aseprite.git
+}}}
+
+Also you can [://github.com/dacap/aseprite browse the source code online].
+
+== Migrating from SF.net ==
+
+If you have already the git repository cloned from SourceForge, you can switch the origin URL to the github one with the following command:
+
+{{{git remote set-url origin git://github.com/dacap/aseprite.git}}}
