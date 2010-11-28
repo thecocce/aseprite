@@ -1,0 +1,14 @@
+#summary What is expected for next releases.
+
+== ASE 0.8.3 ==
+
+  * Copy/Paste/Selection/Transformation integration: Currently the "copy, paste, rotate & scale" workflow is unrelated with "select & move" feature. Should be possible to select a region and resize/rotate it (without the need to copy and paste).
+
+== ASE 0.8.4 ==
+
+  * Add support for hotspots and "hot-rectangles".
+  * Export/import files to/from XML+PNG (my_sprite.xml + my_sprite_files/**.png).
+
+== ASE 0.9 ==
+
+  * Export/Import sprite sheets.
