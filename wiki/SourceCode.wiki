@@ -1,4 +1,4 @@
-#summary Get ASEPRITE source code.
+#summary How to get ASEPRITE source code.
 
 ASEPRITE source code can be obtained cloning the git repository from github.com:
 
