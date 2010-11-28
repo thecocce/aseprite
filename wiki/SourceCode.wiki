@@ -1,7 +1,5 @@
 #summary Get ASEPRITE source code.
 
-= Source Code =
-
 ASEPRITE source code can be obtained cloning the git repository from github.com:
 
 {{{
