@@ -1,6 +1,6 @@
 #summary How to get ASEPRITE source code.
 
-ASEPRITE source code can be obtained cloning the git repository from github.com:
+You can clone the following git repository from github.com:
 
 {{{
 git clone git://github.com/dacap/aseprite.git
