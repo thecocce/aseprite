@@ -1,4 +1,4 @@
-#summary How to get ASEPRITE source code.
+#summary Source code under development.
 
 The official source code is in github:
 
