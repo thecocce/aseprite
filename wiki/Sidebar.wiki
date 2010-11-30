@@ -1,0 +1,12 @@
+#summary ASEPRITE Wiki front page.
+
+[Home ASEPRITE Wiki]
+
+*Development*
+
+  * [Roadmap]
+  * SourceCode
+
+*Wiki*
+
+  * [http://code.google.com/p/aseprite/w/list Search]
