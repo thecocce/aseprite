@@ -4,6 +4,7 @@
 
   * Resizable window (already done in Git repository for Windows, Mac OS X, and Linux).
   * Copy/Paste/Selection/Transformation integration: Currently the "copy, paste, rotate & scale" workflow is unrelated with "select & move" feature. Should be possible to select a region and resize/rotate it (without the need to copy and paste).
+  * Shade drawing mode.
 
 == ASE 1.0 ==
 
