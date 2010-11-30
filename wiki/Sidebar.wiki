@@ -1,5 +1,3 @@
-#summary ASEPRITE Wiki front page.
-
 [Home ASEPRITE Wiki]
 
 *Development*
