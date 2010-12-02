@@ -5,39 +5,9 @@
 == User Manual ==
 
   * [Tutorial]
-    * [Sprites]
-    * [Colors]
-    * [Drawing]
-    * [Zooming]
-    * [Scrolling]
-    * [Selecting]
-    * [Layers]
-    * [Animation]
-    * [MultipleEditors Multiple Editors]
-  * Tools
-    * Selection
-      * [RectangularMarqueeTool Rectangular Marquee]
-      * [LassoTool Lasso]
-      * [PolygonalLassoTool Polygonal Lasso]
-      * [MagicWandTool Magic Wand]
-    * [PencilTool Pencil]
-    * [SprayTool Spray]
-    * [EraserTool Eraser]
-    * [EyedropperTool Eyedropper]
-    * [HandTool Hand]
-    * [MoveTool Move]
-    * [PaintBucketTool Paint Bucket]
-    * [LineTool Line]
-    * [CurveTool Curve]
-    * [RectangleTool Rectangle]
-    * [EllipseTool Ellipse]
-    * [ContourTool Contour]
-    * [PolygonTool Polygon]
-    * [BlurTool Blur]
-    * [JumbleTool Jumble]
+  * [Tools]
   * [Menus]
   * [Customization]
-
 
 == Development ==
 
