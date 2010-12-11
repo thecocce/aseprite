@@ -1,0 +1,16 @@
+#summary What is a sprite and how to create one.
+
+= Sprites =
+
+Quoting Wikipedia, a sprite is:
+
+ In computer graphics, a sprite is a two-dimensional image or animation that is integrated into a larger scene. [http://en.wikipedia.org/wiki/Sprite_(computer_graphics) [Source]]
+
+You can use ASEPRITE to create animated sprites, or static [http://en.wikipedia.org/wiki/Tile-based_video_game tiles], or just [http://en.wikipedia.org/wiki/Pixel_art pixel art].
+
+== Create a Sprite ==
+
+You can start creating a sprite with `File > New` menu option, or pressing `Ctrl+N` keyboard shortcut. In this dialog you select:
+  * The `Width` and `Height` of the new sprite (in pixels). You can choose values from 1 to 9999.
+  * The `Color Mode`, which basically says how many colors you will be able to put in the image.
+  * The `Background` color to be used in the sprite.
