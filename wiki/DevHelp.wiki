@@ -12,13 +12,13 @@ Or you can clone it from [http://github.com/ GitHub] using the `Fork` button in 
 
 == Building ASEPRITE ==
 
-You need [http://www.cmake.org/ cmake] and a compiler to build ASEPRITE source code. You can found the instructions to build ASEPRITE in [https://github.com/dacap/aseprite/blob/master/INSTALL.txt INSTALL.txt] file.
+You need [http://www.cmake.org/ CMake] (2.8.3 or later) and a compiler to build ASEPRITE source code. You can find the instructions to build ASEPRITE in [https://github.com/dacap/aseprite/blob/master/INSTALL.txt INSTALL.txt] file.
 
-The following is a list of tested environments where ASEPRITE is compiled successfully:
+The following is a list of tested environments where ASEPRITE was compiled successfully:
 
   * Windows + MSVC 2008 Express + DirectX SDK
   * Windows + MSVC 2010 Express + DirectX SDK
   * Linux + GCC
   * Mac OS X + GCC
 
-You will not need any extra library, because the repository already contains the source code of all the dependencies, even a modified version of the Allegro library is included in `master` branch (it is not true for `0.8` branch).
+You will not need any extra library because the repository already contains the source code of all dependencies, even a modified version of the Allegro library is included in `master` branch (it is not true for `0.8` branch).
