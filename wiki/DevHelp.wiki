@@ -1,6 +1,6 @@
 #summary Help for new developers.
 
-== Getting the Source Code ==
+==Getting the Source Code==
 
 If you want to help in ASEPRITE, first of all you will need a fresh copy of the Git repository. It is located in GitHub, here [https://github.com/dacap/aseprite github.com/dacap/aseprite].
 
@@ -10,7 +10,7 @@ On Windows you can use programs like [http://code.google.com/p/msysgit/ msysgit]
 
 Or you can clone it from [http://github.com/ GitHub] using the `Fork` button in [https://github.com/dacap/aseprite github.com/dacap/aseprite]. This can be useful if you want to maintain your own public branch.
 
-== Building ASEPRITE ==
+==Building ASEPRITE==
 
 You need [http://www.cmake.org/ CMake] (2.8.3 or later) and a compiler to build ASEPRITE source code. You can find the instructions to build ASEPRITE in [https://github.com/dacap/aseprite/blob/master/INSTALL.txt INSTALL.txt] file.
 
@@ -22,3 +22,18 @@ The following is a list of tested environments where ASEPRITE was compiled succe
   * Mac OS X + GCC
 
 You will not need any extra library because the repository already contains the source code of all dependencies, even a modified version of the Allegro library is included in `master` branch (it is not true for `0.8` branch).
+
+==Mailing List==
+
+Subscribe to [http://groups.google.com/group/aseprite-discuss aseprite-discuss] group. If you'll start working in something, you should send a email to the group describing what you want to do, to avoid programming in something that is already done or which someone else is working on.
+
+Also you could get help from other developers about how to make what you want to implement.
+
+==Issues==
+
+You can start working in any issue without a owner (remember to send a mail to aseprite-discuss group so you can assigned to the issue):
+  * [http://code.google.com/p/aseprite/issues/list List of issues]
+
+There are some open issues from the old SourceForge trackers too if you want to pick one of these:
+  * [http://sourceforge.net/tracker/?group_id=20848&atid=120848 Bugs Tracker]
+  * [http://sourceforge.net/tracker/?group_id=20848&atid=370848 Feature Requests Tracker]
