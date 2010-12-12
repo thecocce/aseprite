@@ -1,0 +1,24 @@
+#summary Help for new developers.
+
+== Getting the Source Code ==
+
+If you want to help in ASEPRITE, first of all you will need a fresh copy of the Git repository. It is located in GitHub, here [https://github.com/dacap/aseprite github.com/dacap/aseprite].
+
+On Windows you can use programs like [http://code.google.com/p/msysgit/ msysgit] or [http://code.google.com/p/gitextensions/ GitExtensions] to clone the repository. You can clone it locally using the following command (read-only URL):
+
+  git clone git://github.com/dacap/aseprite.git
+
+Or you can clone it from [http://github.com/ GitHub] using the `Fork` button in [https://github.com/dacap/aseprite github.com/dacap/aseprite]. This can be useful if you want to maintain your own public branch.
+
+== Building ASEPRITE ==
+
+You need [http://www.cmake.org/ cmake] and a compiler to build ASEPRITE source code. You can found the instructions to build ASEPRITE in [https://github.com/dacap/aseprite/blob/master/INSTALL.txt INSTALL.txt] file.
+
+The following is a list of tested environments where ASEPRITE is compiled successfully:
+
+  * Windows + MSVC 2008 Express + DirectX SDK
+  * Windows + MSVC 2010 Express + DirectX SDK
+  * Linux + GCC
+  * Mac OS X + GCC
+
+You will not need any extra library, because the repository already contains the source code of all the dependencies, even a modified version of the Allegro library is included in `master` branch (it is not true for `0.8` branch).
