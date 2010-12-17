@@ -1,5 +1,5 @@
 #summary What is a sprite and how to create one.
-#sidebar TutorialSidebar
+#sidebar MainSidebar
 
 =Sprites=
 
