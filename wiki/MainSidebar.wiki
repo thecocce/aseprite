@@ -1,0 +1,22 @@
+#summary Sidebar.
+
+  * *User Manual*
+  * [Tutorial]
+    * [TutorialSprites Sprites]
+    * [TutorialColors Colors]
+    * [TutorialDrawing Drawing]
+    * [TutorialZooming Zooming]
+    * [TutorialScrolling Scrolling]
+    * [TutorialSelecting Selecting]
+    * [TutorialLayers Layers]
+    * [TutorialAnimation Animation]
+    * [TutorialMultipleEditors Multiple Editors]
+  * [Tools]
+  * Menus
+  * Customization
+  * Development
+    * [Roadmap]
+    * [SourceCode Source Code]
+    * [DevHelp What I can do?]
+  * Wiki
+    * [http://code.google.com/p/aseprite/w/list All Pages]
