@@ -1,4 +1,3 @@
 #summary ASEPRITE Wiki front page.
-#sidebar MainSidebar
 
 Welcome to the ASEPRITE Wiki.
