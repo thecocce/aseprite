@@ -1,4 +1,5 @@
 #summary What is expected for next releases.
+#sidebar MainSidebar
 
 == ASE 0.9 ==
 
