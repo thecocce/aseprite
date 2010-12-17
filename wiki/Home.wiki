@@ -1,4 +1,5 @@
 #summary ASEPRITE Wiki front page.
+#sidebar MainSidebar
 
 = ASEPRITE Wiki =
 
