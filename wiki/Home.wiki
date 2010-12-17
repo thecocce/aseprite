@@ -1,21 +1,4 @@
 #summary ASEPRITE Wiki front page.
 #sidebar MainSidebar
 
-= ASEPRITE Wiki =
-
-== User Manual ==
-
-  * [Tutorial]
-  * [Tools]
-  * [Menus]
-  * [Customization]
-
-== Development ==
-
-  * [Roadmap]
-  * [SourceCode Source Code]
-  * [DevHelp What I can do?]
-
-== Wiki ==
-
-  * [http://code.google.com/p/aseprite/w/list Search]
+Welcome to the ASEPRITE Wiki.
