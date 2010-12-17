@@ -1,4 +1,5 @@
 #summary Help for new developers.
+#sidebar MainSidebar
 
 ==Getting the Source Code==
 
