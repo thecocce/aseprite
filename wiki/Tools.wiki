@@ -1,4 +1,5 @@
 #summary Summary of the available drawing tools.
+#sidebar MainSidebar
 
 = Tools =
 
