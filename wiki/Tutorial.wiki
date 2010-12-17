@@ -1,4 +1,4 @@
 #summary Introduction to ASEPRITE through a step-by-step tutorial.
-#sidebar TutorialSidebar
+#sidebar MainSidebar
 
 This tutorial explains how to use ASEPRITE step by step. Here we will learn ASEPRITE terminology and how to use the different screen elements to create our own sprites. If you need details about some specific application functionality, you can go back to the [Home User Manual] and check [Tools] and [Menus] sections.
