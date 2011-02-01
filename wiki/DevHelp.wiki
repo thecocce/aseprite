@@ -17,6 +17,7 @@ You need [http://www.cmake.org/ CMake] (2.8.3 or later) and a compiler to build 
 
 The following is a list of tested environments where ASEPRITE was compiled successfully:
 
+  * Windows + MSVC 2005 + DirectX SDK
   * Windows + MSVC 2008 Express + DirectX SDK
   * Windows + MSVC 2010 Express + DirectX SDK
   * Linux + GCC
@@ -32,7 +33,7 @@ Also you could get help from other developers about how to make what you want to
 
 ==Issues==
 
-You can start working in any issue without a owner (remember to send a mail to aseprite-discuss group so you can assigned to the issue):
+You can start working in any issue without a owner (remember to send an email to aseprite-discuss group so you can be assigned to the issue):
   * [http://code.google.com/p/aseprite/issues/list List of issues]
 
 There are some open issues from the old SourceForge trackers too if you want to pick one of these:
