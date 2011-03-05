@@ -3,7 +3,7 @@
 
 == ASE 0.9 ==
 
-  * Resizable window (already done in Git repository for Windows, Mac OS X, and Linux).
+  * DONE ~~Resizable window~~.
   * Copy/Paste/Selection/Transformation integration: Currently the "copy, paste, rotate & scale" workflow is unrelated with "select & move" feature. Should be possible to select a region and resize/rotate it (without the need to copy and paste).
   * Shade drawing mode.
   * Export/Import sprite sheets.
