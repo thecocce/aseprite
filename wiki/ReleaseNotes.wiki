@@ -15,7 +15,7 @@
 
   * Fixed a critical bug: split an editor, close it, and change tool (crash).
   * Fixed Paste command when we use it in an empty frame.
-  * Fixed bug #3051174 (reported by Trent Gamblin): Loading two or more times gui.xml file.
+  * Fixed [http://sourceforge.net/tracker/index.php?func=detail&aid=3051174&group_id=20848&atid=120848 bug #3051174] (reported by Trent Gamblin): Loading two or more times gui.xml file.
 
 == ASE 0.8.1 beta ==
 
