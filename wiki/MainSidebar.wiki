@@ -1,5 +1,6 @@
 #summary Sidebar.
 
+  * [ReleaseNotes Release Notes]
   * *User Manual*
   * [Tutorial]
     * [TutorialSprites Sprites]
