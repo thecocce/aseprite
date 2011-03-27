@@ -1,15 +1,6 @@
 #summary Sidebar.
 
-ASEPRITE
-
-  * [News]
-  * [Features]
-  * [Downloads]
-  * [Screenshots]
   * [ReleaseNotes Release Notes]
-
-Documentation
-
   * [Tutorial]
     * [TutorialSprites Sprites]
     * [TutorialColors Colors]
