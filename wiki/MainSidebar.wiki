@@ -4,6 +4,7 @@ ASEPRITE
 
   * [News]
   * [Features]
+  * [Downloads]
   * [Screenshots]
   * [ReleaseNotes Release Notes]
 
