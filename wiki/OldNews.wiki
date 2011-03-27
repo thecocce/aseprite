@@ -30,7 +30,7 @@
   * Added 'Curve' tool (bezier-spline).
   * Added support to drag and drop colors in color-bar ([http://sourceforge.net/tracker/?func=detail&aid=2109224&group_id=20848&atid=370848 feature #2109224]).
   * Added support to lock lines in special angles with the Shift key, useful to draw in isometric views ([http://sourceforge.net/tracker/?func=detail&aid=1961397&group_id=20848&atid=370848 feature #1961397]).
-  * Fixed bugs [http://sourceforge.net/tracker/index.php?func=detail&aid=1958760&group_id=20848&atid=120848  #1958760] and [http://sourceforge.net/tracker/index.php?func=detail&aid=1958932&group_id=20848&atid=120848 bugs #1958932].
+  * Fixed bugs [http://sourceforge.net/tracker/index.php?func=detail&aid=1958760&group_id=20848&atid=120848 #1958760] and [http://sourceforge.net/tracker/index.php?func=detail&aid=1958932&group_id=20848&atid=120848 #1958932].
   * Fixed other serious bugs (Dead-pointers to palettes, Flatten Layers, File Selector, etc.).
 
 == ASE 0.6b2 ==
