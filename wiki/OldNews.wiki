@@ -1,15 +1,15 @@
-== 0.7.2 ==
+== ASE 0.7.2 ==
 
   * Fixed bug #2847210: "Save" button when close a modified file was not working.
 
-== 0.7.1 ==
+== ASE 0.7.1 ==
 
   * Added support to paste/copy text from/to Windows clipboard.
   * Added support to process Ctrl+C / Ctrl+V / Ctrl+P keys in all entry fields.
   * Fixed a bug where file names for new sprites are lower-case always (in Windows).
   * Fixed a program crash when try to open a file in the middle of a thumbnail generation process.
 
-== 0.7 ==
+== ASE 0.7 ==
 
   * Added "Sprite Size" command (feature #2671468).
   * Added "Save Copy As" command (feature #2636076).
@@ -20,12 +20,12 @@
   * Fixed a bug in the File Open dialog when user presses ENTER key with an empty file name.
   * Fixed critical bugs in rendering code.
 
-== 0.6.1 ==
+== ASE 0.6.1 ==
 
   * Added support to drag and drop files from Windows explorer (feature #2419098).
   * Fixed bug #2511762 (.PNG' extension unavailable in Open and Save As dialogs, thanks to Clayton Enga for the patch).
 
-== 0.6 ==
+== ASE 0.6 ==
 
   * Added 'Curve' tool (bezier-spline).
   * Added support to drag and drop colors in color-bar (feature #2109224).
@@ -33,7 +33,7 @@
   * Fixed bugs #1958760 and #1958932.
   * Fixed other serious bugs (Dead-pointers to palettes, Flatten Layers, File Selector, etc.).
 
-== 0.6b2 ==
+== ASE 0.6b2 ==
 
   * Added the `Background' layer.
   * Added support to load and save PNG files (through 'libpng').
@@ -66,7 +66,7 @@
     * Removed map-generation utility.
     * Removed linked-cels (were complex for the end-user).
 
-== 0.5 ==
+== ASE 0.5 ==
 
   * Added features-requested by Carl Olsson:
     * better "snap to grid" support for box-like tools (rectangle, ellipse, etc.).
@@ -77,7 +77,7 @@
   * Fixed compilation with Allegro 4.2.3 SVN (and fixed a bug in Allegro with key_shifts).
   * Now the full-screen or windowed state is remembered (thanks to Manuel De Miguel Moreno to report it).
 
-== 0.4 ==
+== ASE 0.4 ==
 
   * Removed the console mode.
   * Changed Film Editor shortcut: TAB key.
@@ -88,12 +88,12 @@
   * Added a combobox to file-selection to handle the bookmarks.
   * Added rotation!!!  Now you can scale and rotate what you paste from the clipboard.
 
-== 0.3.1 ==
+== ASE 0.3.1 ==
 
   * Fixed the creation of session files when an exception (fatal error) happens in Windows.
   * Added es.po and tips.es files.
 
-== 0.3 ==
+== ASE 0.3 ==
 
   * Added session manager (if the program crashes the session is saved automatically).
   * Added a tool to draw text (finally).
@@ -104,7 +104,7 @@
   * Spanish language support (now works in Windows too).
   * Internal code improved (mainly GUI parts, and functions names).
 
-== 0.2.4 ==
+== ASE 0.2.4 ==
 
   * More stable undo: with limit and without the strange redo-after-overwrite-undo feature.
   * New median filter to despeckle images.
@@ -116,12 +116,12 @@
   * Added Cut, Copy, Paste!
   * Added AutoCrop (before known as Trim).
 
-== 0.2.3 ==
+== ASE 0.2.3 ==
 
   * Fixed routine to save JPG files.
   * Fixed and improved various parts of GUI.
 
-== 0.2.2 ==
+== ASE 0.2.2 ==
 
   * Added some documentation to write Lua scripts.
   * Film Editor was improved.
@@ -132,7 +132,7 @@
   * New actions: Merge Down, New Frame, Copy Frame, change Image Type!, Load Script File.
   * Optimized the drawing speed with tiled mode.
 
-== 0.2.1 ==
+== ASE 0.2.1 ==
 
   * Fixed in Windows version: spray and some errors saving file-names in the configuration file.
   * Added libintl support and the Spanish translation (only for Linux, but I have planned make this usable in Windows).
@@ -149,7 +149,7 @@
   * Added differents screen layouts in main.jid (see FAQ.txt to see how change between them).
   * The tool bar is back!
 
-== 0.2 ==
+== ASE 0.2 ==
 
   * Fixed a lot of bugs.
   * Added optional support for JPEG with JPGalleg 2.0 library.
@@ -164,7 +164,7 @@
   * New Gfx-core.  All sprite/image/layer/prop/key stuff was reprogrammed.  The more big change, was to property/keyframe level (the properties can be with lineal or spline interpolation, also, have a ending flag to make circular movements or patterns of movement).
   * New GUI.  The look and the internal code was reestructured completelly, I made a new GUI library: Jinete (rider).
 
-== 0.1.2 ==
+== ASE 0.1.2 ==
 
   * New RLE Gaussian Blur effect (from The GIMP source code).
   * Blender modes are back!: Normal, Multiply, Screen, Overlay, Hard Light, Darken, Lighten, Addition, Subtract, Difference, Hue, Saturation, Color, Luminosity.
@@ -178,7 +178,7 @@
   * New selection type: "shrink", to shrink the selection to the current layer bitmap bounds.
   * New "trim_sprite" action.
 
-== 0.1.0 ==
+== ASE 0.1.0 ==
 
   * Removed the `move' tool to displace layers (it was redundant).
   * New interface to load Plug-Ins in a dynamic way (DLL, .so).
@@ -198,7 +198,7 @@
   * New ASE Library, with a complete new design to handle: images, layers, bitmaps, properties, keyframes, etc.
   * Source code to GNU style: with configure.in, Makefile.am, etc.
 
-== 0.0.7 ==
+== ASE 0.0.7 ==
 
   * New scripts routines: request(), apply_filter(), load_sprite(), and save_sprite().
   * Support to load FLI/FLC and to save FLC files. Yes! Now with ASE you can make FLC animations with a good compression performance.
@@ -215,7 +215,7 @@
   * Removed the `background' properties of layers: from now, a layer will be transparent (masked-blitting) ever. With this are fixed a lot of problems with load/save routines in old versions.
   * New `reload_menus' command.
 
-== 0.0.6 ==
+== ASE 0.0.6 ==
 
   * I still don't recommend you the .ase format (just for temporary usage): there are planes to change it.
   * Scripting capability athwart Lua language (http://www.lua.org/): now, you can make automatic tasks programming your own scripts (included some scripts as example).
@@ -226,7 +226,7 @@
   * Removed all the use of the Allegro GUI.
   * New original (and ugly) GUI look: now, the colors are in harmony for the eyes.
 
-== 0.0.5 ==
+== ASE 0.0.5 ==
 
   * More facilities to handle colors with different `alpha'.
   * New animation control: need test (see `bugs.txt' to report errors).
@@ -236,7 +236,7 @@
   * New `tile' and `reload' option for the filters.
   * New view-tile option in tool-menu (for make tileable patterns).
 
-== 0.0.4 ==
+== ASE 0.0.4 ==
 
   * Modificable draw properties: thickness, alpha color, spray random factor, and spray radius.
   * Undo support for all tools.
@@ -251,7 +251,7 @@
   * Added a set-gfx-mode option in the system-menu.
   * New duplicate layer support.
 
-== 0.0.3 ==
+== ASE 0.0.3 ==
 
   * New .ase format (for save the layers).
   * More keyboard shorcuts (with a new `keys.txt').
@@ -263,12 +263,12 @@
   * New optimized status bar.
   * New improved look of the GUI.
 
-== 0.0.2 ==
+== ASE 0.0.2 ==
 
   * New "infinite" Undo & Redo support.
   * Some importants bug fixed.
 
-== 0.0.1 ==
+== ASE 0.0.1 ==
 
   * One tool: interactive line.
   * Color selection support.
