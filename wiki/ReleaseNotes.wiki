@@ -2,6 +2,7 @@
 
 == ASEPRITE 0.9 (not released yet) ==
 
+  * New color selectors with improved RGB and HSV sliders.
   * Fixed [https://sourceforge.net/tracker/?func=detail&aid=3050538&group_id=20848&atid=120848 bug #3050538] - File dialog does not show files (sometimes).
   * Added support to resize the window in X11, Mac OS X, and Windows platforms.
   * Changes in keyboard shortcuts (some of these changes were made to avoid tool-switching confusion):
