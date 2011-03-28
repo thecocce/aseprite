@@ -1,3 +1,13 @@
 #summary ASEPRITE Wiki front page.
 
 Welcome to the ASEPRITE Wiki.
+
+Some places that you would like to visit:
+
+  * [http://www.aseprite.org/ ASEPRITE Website]
+  * [http://blog.aseprite.org/ ASEPRITE Blog]
+  * [http://www.aseprite.org/quickref.pdf Quick Reference]
+  * [http://www.aseprite.org/?download Downloads]
+  * [http://www.twitter.com/aseprite @aseprite on Twitter]
+  * [http://www.github.com/dacap/aseprite/ Git Repository]
+  * [http://www.aseprite.org/donate/ Make a Donation]
