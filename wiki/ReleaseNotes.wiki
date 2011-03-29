@@ -12,8 +12,8 @@
     * Curve: Shift+L (it was "Y")
     * Spray: Shift+B (it was "S")
   * Bugs fixed:
-    * ~~[http://code.google.com/p/aseprite/issues/detail?id=14 bug #14]~~ - Don't ask for saving changes when read-only commands are used.
-    * ~~[https://sourceforge.net/tracker/?func=detail&aid=3050538&group_id=20848&atid=120848 bug #3050538]~~ - File dialog does not show files (sometimes).
+    * [http://code.google.com/p/aseprite/issues/detail?id=14 #14] - Don't ask for saving changes when read-only commands are used.
+    * [https://sourceforge.net/tracker/?func=detail&aid=3050538&group_id=20848&atid=120848 #3050538] - File dialog does not show files (sometimes).
 
 == ASEPRITE 0.8.2 ==
 
