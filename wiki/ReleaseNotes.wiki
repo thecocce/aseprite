@@ -4,7 +4,7 @@
 
   * New color selectors with improved RGB and HSB sliders.
   * Added support to resize the window in X11, Mac OS X, and Windows platforms.
-  * Improved "Canvas Size" command.
+  * Improved "Canvas Size" command ([http://www.youtube.com/watch?v=psNjGZRrm9w video]).
   * Changes in keyboard shortcuts (some of these changes were made to avoid tool-switching confusion):
     * Elliptical Marquee: Shift+M (it was "M")
     * Polygonal Lasso: Shift+Q (it was "Q")
