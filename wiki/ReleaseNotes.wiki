@@ -12,6 +12,7 @@
     * Polygon: Shift+D (it was "D")
     * Curve: Shift+L (it was "Y")
     * Spray: Shift+B (it was "S")
+  * Added automatic check for updates ([http://code.google.com/p/aseprite/issues/detail?id=13 #13]).
   * Bugs fixed:
     * [http://code.google.com/p/aseprite/issues/detail?id=14 #14] - Don't ask for saving changes when read-only commands are used.
     * [https://sourceforge.net/tracker/?func=detail&aid=3050538&group_id=20848&atid=120848 #3050538] - File dialog does not show files (sometimes).
