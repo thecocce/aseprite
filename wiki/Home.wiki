@@ -9,5 +9,5 @@ Some places that you would like to visit:
   * [http://www.aseprite.org/quickref.pdf Quick Reference]
   * [http://www.aseprite.org/?download Downloads]
   * [http://www.twitter.com/aseprite @aseprite on Twitter]
-  * [http://www.github.com/dacap/aseprite/ Git Repository]
+  * [https://github.com/dacap/aseprite/ Git Repository]
   * [http://www.aseprite.org/donate/ Make a Donation]
