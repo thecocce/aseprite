@@ -1,5 +1,9 @@
-#summary Help for new developers.
+#summary Guidelines for new developers, contributors, or artists.
 #sidebar MainSidebar
+
+=Helping=
+
+You can help making logos, icons, skins, and mockups for ASEPRITE. Also you can help with patches, or implementing features, or fixing bugs.
 
 ==Getting the Source Code==
 
