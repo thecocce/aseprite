@@ -5,7 +5,7 @@
 
   * DONE ~~Resizable window~~.
   * DONE ~~Automatic check for updates~~.
-  * Export/Import sprite sheets.
+  * DONE ~~Export/Import sprite sheets~~.
 
 == ASEPRITE 0.9.1 ==
 
