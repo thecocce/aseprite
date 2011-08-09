@@ -2,9 +2,10 @@
 
 == ASEPRITE 0.9 (not released yet) ==
 
-  * New color selectors with improved RGB and HSB sliders.
+  * Added Import/Export Sprite Sheet ([http://code.google.com/p/aseprite/issues/detail?id=4 #4]).
   * Added support to resize the window in X11, Mac OS X, and Windows platforms.
   * Improved "Canvas Size" command ([http://www.youtube.com/watch?v=psNjGZRrm9w video]).
+  * New color selectors with improved RGB and HSB sliders ([http://www.youtube.com/watch?v=nDHSqABBK-k video]).
   * Changes in keyboard shortcuts (some of these changes were made to avoid tool-switching confusion):
     * Elliptical Marquee: Shift+M (it was "M")
     * Polygonal Lasso: Shift+Q (it was "Q")
