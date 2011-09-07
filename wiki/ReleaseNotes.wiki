@@ -1,6 +1,10 @@
 #summary What is new in each version.
 
-== ASEPRITE 0.9 (not released yet) ==
+== ASEPRITE 0.9.1 (next release) ==
+
+  * _Nothing done yet_
+
+== ASEPRITE 0.9 ==
 
   * Added Import/Export Sprite Sheet ([http://code.google.com/p/aseprite/issues/detail?id=4 #4]).
   * Added support to resize the window in X11, Mac OS X, and Windows platforms.
