@@ -2,7 +2,7 @@
 
 == ASEPRITE 0.9.1 (next release) ==
 
-  * _Nothing done yet_
+  * Fixed regression bug: now you can clone the selection using Ctrl+drag & drop as in 0.8.2.
 
 == ASEPRITE 0.9 ==
 
