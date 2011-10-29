@@ -3,7 +3,7 @@
 
 = Tools =
 
-  * Selection
+  * [Selection]
     * [RectangularMarqueeTool Rectangular Marquee]
     * [LassoTool Lasso]
     * [PolygonalLassoTool Polygonal Lasso]
