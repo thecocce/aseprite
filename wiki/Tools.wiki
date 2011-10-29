@@ -3,7 +3,7 @@
 
 = Tools =
 
-  * [Selection]
+  * [SelectionTools Selection]
     * [RectangularMarqueeTool Rectangular Marquee]
     * [LassoTool Lasso]
     * [PolygonalLassoTool Polygonal Lasso]
@@ -21,6 +21,6 @@
   * [EllipseTool Ellipse]
   * [ContourTool Contour]
   * [PolygonTool Polygon]
-  * Effects:
+  * [EffectsTools Effects]
     * [BlurTool Blur]
     * [JumbleTool Jumble]
