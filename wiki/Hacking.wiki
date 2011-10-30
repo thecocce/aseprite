@@ -1,0 +1,5 @@
+#summary You should start reading this if you want to modify the source code.
+
+= Hacking =
+
+If you are here, is because you want to modify ASEPRITE source code to your own needs.
