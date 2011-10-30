@@ -40,5 +40,6 @@
     * [Roadmap]
     * [SourceCode Source Code]
     * [DevHelp What I can do?]
+    * [Hacking]
   * Wiki
     * [http://code.google.com/p/aseprite/w/list All Pages]
