@@ -1,5 +1,9 @@
 #summary You should start reading this if you want to modify the source code.
 
-= Hacking =
+=Hacking=
 
 If you are here, is because you want to modify ASEPRITE source code to your own needs.
+
+==Compiling==
+
+First of all you need a working copy of ASEPRITE compiled with your own compiler. To this please see the [DevHelp] section.
