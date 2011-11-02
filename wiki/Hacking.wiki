@@ -7,3 +7,51 @@ If you are here, is because you want to modify ASEPRITE source code to your own 
 ==Compiling==
 
 First of all you need a working copy of ASEPRITE compiled with your own compiler. To this please see the [DevHelp] section.
+
+==Directories==
+
+The following is the way how files are organized in ASEPRITE's repository:
+
+{{{
+cmake/           Special modules for CMake.
+data/            Data distributed with the binaries (xml, icons, images, skins, etc.).
+docs/            Several .txt files (licenses, file formats) and the quickref.odt file.
+misc/            Utility .sh scripts (generate ETAGS, generate new distribution, etc.).
+src/             ASEPRITE source code.
+third_party/     Third-party libraries.
+CMakeLists.txt   Main CMake file to build all the project & third part libraries.
+config.h
+}}}
+
+In src/ there are several modules, each one with different dependencies,
+purposes, and licenses:
+
+{{{
+src/
+  allegro/       Customized Allegro library (from branch 4.4). This is not
+                 in third_part/ because there are several changes (this code
+                 cannot be updated with the).
+  app/
+  base/          Base library with general purpose functions.
+  commands/
+    filters/
+  dialogs/
+  file/
+  filters/
+  gfx/
+  gui/
+  modules/
+  net/           Mini wrapper of curl library to send HTTP requests.
+  raster/        Base classes to manage sprites, layers, cels, images, etc.
+  settings/
+  skin/
+  tests/
+  tools/
+  undo/          Generic classes to control undo history of any object.
+  undoers/       Undoers (objects to undo actions) for document and raster objects.
+  util/
+  widgets/
+    editor/
+}}}
+
+==Dependencies==
