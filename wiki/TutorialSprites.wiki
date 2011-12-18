@@ -1,28 +1,2 @@
 #summary What is a sprite and how to create one.
 #sidebar MainSidebar
-
-=Sprites=
-
-Quoting Wikipedia a sprite is:
-
-  `[...]` a two-dimensional image or animation that is integrated into a larger scene. [http://en.wikipedia.org/wiki/Sprite_(computer_graphics) [Source]]
-
-You can use ASEPRITE to create animated sprites, static [http://en.wikipedia.org/wiki/Tile-based_video_game tiles], or just [http://en.wikipedia.org/wiki/Pixel_art pixel art]. Basically you can manipulate any kind of [http://en.wikipedia.org/wiki/Raster_image raster graphics], where images are conformed by a [http://en.wikipedia.org/wiki/Pixel grid of pixels], little squares distributed in a rectangular way. E.g. When you see a photo in your computer, you almost does not notice the existence of pixels (they are too small). But when you see little images in your [http://en.wikipedia.org/wiki/Mobile_game mobile phone], you can appreciate the pixels. ASEPRITE is a program to see and manipulate pixels, to created this kind of little images.
-
-==Create a Sprite==
-
-You can start creating a sprite with `File > New` menu option, or pressing `Ctrl+N` keyboard shortcut. In this dialog you select:
-  * The `Width` and `Height` of the new sprite (in pixels). You can choose values from 1 to 9999 for each field.
-  * The `Color Mode`, which basically says how many colors you will be able to put in the image.
-      Note: With [http://en.wikipedia.org/wiki/RGB_color_model RGB] images you can have an independent color for each pixel, in this way each little pixel has its Red, Green, Blue and Alpha (opacity) values. With [http://en.wikipedia.org/wiki/Indexed_color Indexed] sprites have a special element associated: a [http://en.wikipedia.org/wiki/Palette_(computing) palette] (with a maximum of 256 colors), in this way each pixel has a palette entry associated, if you change the palette color, all pixels associated to that color will change their aspect. For pixel art, your selection should be _Indexed_.
-  * The `Background` color to be used in the sprite.
-      Note: ASEPRITE's sprites have layers, when you create a new sprite, it is created with just one layer. There a two kind of sprites: 1) Sprites with a background layer, which is a layer at the bottom that cannot be moved, and 2) Sprites without a background layer, where all layers are just transparent. If you specified `Transparent` as background color, you will obtain a sprite with a layer that is completely transparent initially (you will see a checked-background indicating "no background here"). In the other side, if you specified a color as background, you will get a sprite with the background layer painted with that color.
-      There is a special option for this field: the `Background Color`, which is the one selected in the [GuiColorBar color bar] for the right mouse button.
-
-For the tutorial you should choose these values:
-  * Width: 320
-  * Height: 240
-  * Color Mode: Indexed (with 256 colors)
-  * Background: White
-
-After creating the sprite, you will see it in the [GuiCurrentEditor current editor]. The current editor is where you can draw (the center of the screen). In next sections you will see how to split the current editor vertically and horizontally.
