@@ -34,7 +34,18 @@
     * [EffectsTools Effects]
       * [BlurTool Blur]
       * [JumbleTool Jumble]
-  * Menus
+  * [Menus]
+    * [FileMenu File]
+      * [NewFileAction New File]
+      * [OpenFileAction Open File]
+      * [SaveFileAction Save File]
+    * [EditMenu Edit]
+    * [SpriteMenu Sprite]
+    * [LayerMenu Layer]
+    * [FrameMenu Frame]
+    * [SelectMenu Select]
+    * [ViewMenu View]
+    * [HelpMenu Help]
   * Customization
   * Development
     * [Roadmap]
