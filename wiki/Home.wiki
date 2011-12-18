@@ -1,13 +1,15 @@
 #summary ASEPRITE Wiki front page.
 
-Welcome to the ASEPRITE Wiki.
+Quoting Wikipedia a sprite is:
 
-Some places that you would like to visit:
+  `[...]` a two-dimensional image or animation that is integrated into a larger scene. [http://en.wikipedia.org/wiki/Sprite_(computer_graphics) [Source]]
 
-  * [http://www.aseprite.org/ ASEPRITE Website]
-  * [http://blog.aseprite.org/ ASEPRITE Blog]
-  * [http://www.aseprite.org/quickref.pdf Quick Reference]
-  * [http://www.aseprite.org/?download Downloads]
-  * [http://www.twitter.com/aseprite @aseprite on Twitter]
-  * [https://github.com/dacap/aseprite/ Git Repository]
-  * [http://www.aseprite.org/donate/ Make a Donation]
+You can use ASEPRITE to create animated sprites, static [http://en.wikipedia.org/wiki/Tile-based_video_game tiles], or just [http://en.wikipedia.org/wiki/Pixel_art pixel art]. Basically you can manipulate any kind of [http://en.wikipedia.org/wiki/Raster_image raster graphics], where images are conformed by a [http://en.wikipedia.org/wiki/Pixel grid of pixels], little squares distributed in a rectangular way. E.g. When you see a photo in your computer, you almost does not notice the existence of pixels (they are too small). But when you see little images in your [http://en.wikipedia.org/wiki/Mobile_game mobile phone], you can appreciate the pixels. ASEPRITE is a program to see and manipulate pixels, to created this kind of little images.
+
+==URL==
+
+  * [http://www.aseprite.org/ Offical Website]
+  * [http://blog.aseprite.org/ Blog]
+  * [http://www.twitter.com/aseprite ASEPRITE at Twitter]
+  * [https://plus.google.com/b/102156040653649496700/ ASEPRITE at Google+]
+  * [https://github.com/dacap/aseprite/ ASEPRITE at Github]
