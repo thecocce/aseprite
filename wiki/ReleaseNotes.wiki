@@ -7,7 +7,7 @@
   * Fixed regression bug: now you can clone the selection using Ctrl+drag & drop as in 0.8.2.
   * Fixed issue [http://code.google.com/p/aseprite/issues/detail?id=52 #52]: Text entries do not work in Import Sprite Sheet.
   * WARNING: The "N" keyboard shortcut was changed to "Alt+N" to avoid creation of frames by mistake.
-  * Closed issues [http://code.google.com/p/aseprite/issues/detail?id=50 #50].
+  * Closed issues [http://code.google.com/p/aseprite/issues/detail?id=48 #48], [http://code.google.com/p/aseprite/issues/detail?id=50 #50].
 
 == ASEPRITE 0.9 ==
 
