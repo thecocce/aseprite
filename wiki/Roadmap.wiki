@@ -16,6 +16,7 @@
 
   * Add undo to each transformation phase.
   * Shade drawing mode.
+  * Full palette control: several new options, improved editor, remap colors, more color control in cut/copy/paste operations between files, etc.
 
 == ASEPRITE 1.0 ==
 
