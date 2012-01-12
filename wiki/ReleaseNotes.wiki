@@ -2,7 +2,7 @@
 
 == ASEPRITE 0.9.1 ==
 
-  * Now you can transform (move/scale/rotate) the selection directly.
+  * Now you can transform (move/scale/rotate) the selection directly ([http://www.youtube.com/watch?v=R6i29DHTNSs video]).
   * Integrated copy & paste logic with selection.
   * Text field in the status bar to go to frame (issue [http://code.google.com/p/aseprite/issues/detail?id=6 #6]).
   * Button in status bar to create new frames.
