@@ -10,6 +10,7 @@
   * Fixed issue [http://code.google.com/p/aseprite/issues/detail?id=52 #52]: Text entries do not work in Import Sprite Sheet.
   * WARNING: The "N" keyboard shortcut was changed to "Alt+N" to avoid creation of frames by mistake.
   * Closed issues [http://code.google.com/p/aseprite/issues/detail?id=48 #48], [http://code.google.com/p/aseprite/issues/detail?id=50 #50].
+  * Ctrl+Tab and Ctrl+Shift+Tab to navigate between tabs.
 
 == ASEPRITE 0.9 ==
 
