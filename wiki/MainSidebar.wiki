@@ -46,6 +46,7 @@
     * [SelectMenu Select]
     * [ViewMenu View]
     * [HelpMenu Help]
+  * [FAQ]
   * Customization
   * Development
     * [Roadmap]
