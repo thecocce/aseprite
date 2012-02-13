@@ -53,5 +53,6 @@
     * [SourceCode Source Code]
     * [DevHelp What I can do?]
     * [Hacking]
+    * [ReleaseSteps Release Steps]
   * Wiki
     * [http://code.google.com/p/aseprite/w/list All Pages]
