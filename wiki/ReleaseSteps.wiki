@@ -1,0 +1,7 @@
+#summary Steps to do a new release.
+
+= Release Steps =
+
+Here we've a simple list of steps to create a new release. It's for the main distributor of packages, so generally you should not be reading this.
+
+  * Change the VERSION constant of config.h to the new version and commit this change to "master" branch.
