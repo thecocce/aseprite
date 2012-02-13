@@ -4,4 +4,19 @@
 
 Here we've a simple list of steps to create a new release. It's for the main distributor of packages, so generally you should not be reading this.
 
-  * Change the VERSION constant of config.h to the new version and commit this change to "master" branch.
+== Windows Package ==
+
+  * Change the VERSION preprocessor definition in config.h to the new version. Commit this change to "master" branch.
+  * Create a new _build-VERSION_ directory to compile this specific version. The compilation should include .pdb files so we can debug a memory dump in the future.
+  * Execute cmake in that directory. Modify flags (replace /MD with /MT) to use static C++ runtimes.
+  * Compile. If something fails, make a change and commit this change. Compile until it's everything ok.
+  * Create the distribution package executing the misc/dist.sh script.
+  * Test the package uncompressing and executing it.
+
+== Publish ==
+
+  * Upload packages to http://code.google.com/p/aseprite/downloads/entry
+  * Update the ReleaseNotes page.
+  * Create a blog entry with the main news.
+  * Update the official site (http://www.aseprite.org/) with the new version.
+  * Tweet the blog entry and create a post in Google+ linking the blog.
