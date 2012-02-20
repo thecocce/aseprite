@@ -1,0 +1,7 @@
+#summary One-sentence summary of this page.
+
+= Copy and paste palette entries =
+
+This video shows how we can copy and paste palette entries to create shade effects (v0.9):
+
+<wiki:video url="http://www.youtube.com/watch?v=aCCdYhYPp84"/>
