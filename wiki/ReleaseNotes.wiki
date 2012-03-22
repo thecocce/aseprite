@@ -11,6 +11,7 @@
   * WARNING: The "N" keyboard shortcut was changed to "Alt+N" to avoid creation of frames by mistake.
   * Closed issues [http://code.google.com/p/aseprite/issues/detail?id=48 #48], [http://code.google.com/p/aseprite/issues/detail?id=50 #50].
   * Ctrl+Tab and Ctrl+Shift+Tab to navigate between tabs.
+  * Avoid 100% CPU usage (issue [https://code.google.com/p/aseprite/issues/detail?id=47 #47]).
 
 == ASEPRITE 0.9 ==
 
