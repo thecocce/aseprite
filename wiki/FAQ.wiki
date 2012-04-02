@@ -1,1 +1,16 @@
 #summary Frequently asked questions.
+
+==Why do I see double-sized pixels?==
+
+Each ASEPRITE pixel uses 2x2 real pixels on the screen. It is designed in this way to reproduce look & feel of old sprite editors, and it is achieved only using this special configuration of pixels on the screen.
+
+If you want to edit images with the full screen resolution, you've a workaround:
+  # Close aseprite
+  # Open `aseprite.ini` file (or `~/.asepriterc` on Mac OS X and Linux)
+  # Find `ScreenScale = 2`
+  # Replace with `ScreenScale = 1`
+  # Save, close the file, and run aseprite again
+
+==How I move layers in the stack?==
+
+You've to use the _Animation Editor_. To open it you can press the `Tab` key or `View > Animation Editor` menu.
