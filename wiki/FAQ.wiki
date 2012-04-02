@@ -11,6 +11,6 @@ If you want to edit images with the full screen resolution, you've a workaround:
   # Replace with `ScreenScale = 1`
   # Save, close the file, and run aseprite again
 
-==How I move layers in the stack?==
+==How do I move layers in the stack?==
 
 You've to use the _Animation Editor_. To open it you can press the `Tab` key or `View > Animation Editor` menu.
