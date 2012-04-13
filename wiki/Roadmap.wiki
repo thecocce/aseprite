@@ -18,6 +18,7 @@
   * Shade drawing mode.
   * Full palette control: several new options, improved editor, remap colors, more color control in cut/copy/paste operations between files, etc.
   * Projects management (settings per file, grid size, automatic sprite sheets import/export, etc.).
+  * Implement [http://en.wikipedia.org/wiki/Image_scaling#RotSprite RotSprite] algorithm.
 
 == ASEPRITE 1.0 ==
 
