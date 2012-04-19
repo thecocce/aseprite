@@ -13,4 +13,4 @@ If you want to edit images with the full screen resolution, you've a workaround:
 
 ==How do I move layers in the stack?==
 
-You've to use the _Animation Editor_. To open it you can press the `Tab` key or `View > Animation Editor` menu.
+You've to use the _Animation Editor_. To open it you can press the `Tab` key or `View > Animation Editor` menu. Then you can drag-and-drop layers at the left side of the screen.
