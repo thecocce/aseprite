@@ -1,21 +1,29 @@
 #summary What is new in each version.
 
+== ASEPRITE 0.9.2 ==
+
+IN PROGRESS...
+
+  * Added scroll-by tile size feature (issue 90): you can press Ctrl+Arrow keys to scroll by tile size.
+  * Fix problems with Trim (issue 106).
+  * Fix problems loading .ase files (issue 102).
+
 == ASEPRITE 0.9.1 ==
 
   * Now you can transform (move/scale/rotate) the selection directly ([http://www.youtube.com/watch?v=R6i29DHTNSs video]).
   * Integrated copy & paste logic with selection.
-  * Text field in the status bar to go to frame (issue [http://code.google.com/p/aseprite/issues/detail?id=6 #6]).
+  * Text field in the status bar to go to frame (issue 6).
   * Button in status bar to create new frames.
   * Fixed regression bug: now you can clone the selection using Ctrl+drag & drop as in 0.8.2.
-  * Fixed issue [http://code.google.com/p/aseprite/issues/detail?id=52 #52]: Text entries do not work in Import Sprite Sheet.
+  * Fixed issue 52: Text entries do not work in Import Sprite Sheet.
   * WARNING: The "N" keyboard shortcut was changed to "Alt+N" to avoid creation of frames by mistake.
-  * Closed issues [http://code.google.com/p/aseprite/issues/detail?id=48 #48], [http://code.google.com/p/aseprite/issues/detail?id=50 #50].
+  * Closed issue 48 and issue 50.
   * Ctrl+Tab and Ctrl+Shift+Tab to navigate between tabs.
-  * Avoid 100% CPU usage (issue [https://code.google.com/p/aseprite/issues/detail?id=47 #47]).
+  * Avoid 100% CPU usage (issue 47).
 
 == ASEPRITE 0.9 ==
 
-  * Added Import/Export Sprite Sheet ([http://code.google.com/p/aseprite/issues/detail?id=4 #4]).
+  * Added Import/Export Sprite Sheet (issue 4).
   * Added support to resize the window in X11, Mac OS X, and Windows platforms.
   * Improved "Canvas Size" command ([http://www.youtube.com/watch?v=psNjGZRrm9w video]).
   * New color selectors with improved RGB and HSB sliders ([http://www.youtube.com/watch?v=nDHSqABBK-k video]).
@@ -26,9 +34,9 @@
     * Polygon: Shift+D (it was "D")
     * Curve: Shift+L (it was "Y")
     * Spray: Shift+B (it was "S")
-  * Added automatic check for updates ([http://code.google.com/p/aseprite/issues/detail?id=13 #13]).
+  * Added automatic check for updates (issue 13).
   * Bugs fixed:
-    * [http://code.google.com/p/aseprite/issues/detail?id=14 #14] - Don't ask for saving changes when read-only commands are used.
+    * Issue 14 - Don't ask for saving changes when read-only commands are used.
     * [https://sourceforge.net/tracker/?func=detail&aid=3050538&group_id=20848&atid=120848 #3050538] - File dialog does not show files (sometimes).
 
 == ASEPRITE 0.8.2 ==
