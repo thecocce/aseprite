@@ -1,5 +1,29 @@
 #summary Changes in old versions of ASEPRITE. Only for historical purposes.
 
+== ASE 0.8.1 beta ==
+
+  * Improved "Tools Configuration" dialog to show only necessary options for the current tool.
+  * Added "Tolerance" parameter to Magic Wand and Paint Bucket (Trent Gamblin idea).
+  * Fixed critical problem rendering indexed images with a non-black color in palette entry 0.
+
+== ASE 0.8.0 beta ==
+
+  * USER INTERFACE CHANGES
+    * Now you zoom using the mouse wheel without pressing Alt key.
+    * Now tools are grouped.
+    * Color-bar is completely redesigned (see Quick Reference).
+    * Improved selection tools: Now you can move selected pixels dragging the selected area (like MS Paint). [work-in-progress]
+    * New ASE skin created by Ilija Melentijevic.
+    * "Tools" menu is gone:
+      * "Tools > Configure" was moved to "Edit > Tools".
+      * "Tools > Options" was moved to "Edit > Options".
+      * "Tools > FX" was moved to "Edit > FX".
+      * All other options are in "View" (Animation Editor, Palette Editor).
+  * New tools: Lasso, Polygonal Lasso, Magic Wand, Eyedropper (as an independet tool, Alt+click is available too), Hand, Move, (Filled) Countour, and (Filled) Polygon.
+  * Now the editor cursor displays pen preview (Ilija Melentijevic idea, like Animator Pro).
+  * Added compression to .ase/.aseprite format.
+  * Added support to zoom when you are drawing (e.g. you can use the mouse wheel when you are drawing a polygon or a long line).
+
 == ASE 0.7.2 ==
 
   * Fixed [http://sourceforge.net/tracker/index.php?func=detail&aid=2847210&group_id=20848&atid=120848 bug #2847210]: "Save" button when close a modified file was not working.
