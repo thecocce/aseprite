@@ -5,8 +5,8 @@
 IN PROGRESS...
 
   * Added scroll-by tile size feature (issue 90): you can press Ctrl+Arrow keys to scroll by tile size.
-  * Fix problems loading .ase files (issue 102).
   * Fix problem losing hue value in palette editor (issue 100).
+  * Fix problems loading .ase files (issue 102).
   * Fix problems with Trim (issue 106).
 
 == ASEPRITE 0.9.1 ==
