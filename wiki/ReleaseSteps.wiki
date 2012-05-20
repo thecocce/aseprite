@@ -9,7 +9,7 @@ Here we've a simple list of steps to create a new release. It's for the main dis
   * Fetch all changes from `master` branch, and reset the working copy to the HEAD.
   * Change the `VERSION` preprocessor definition in config.h to the new version. Update the version attribute in `data/gui.xml` file too. *Do not commit this change.*
   * Create a new `build-VERSION` directory to compile this specific version.
-  * Execute `cmake .. -G "NMake Makefiles"` in that directory. Modify flags (replace /MD with /MT) to use static C++ runtimes. Use RelWithDebInfo configuration, the compilation must include .pdb files so we can debug a memory dump in the future.
+  * Execute `cmake .. -G "NMake Makefiles"` in that directory. Modify flags (replace /MD with /MT) to use static C++ runtimes. Use `RelWithDebInfo` configuration, the compilation must include .pdb files so we can debug a memory dump in the future.
   * Compile with `nmake`. If something goes wrong, make a change and commit that change. Compile until it's everything ok.
   * Create the distribution package executing the `misc/dist.sh` script.
   * Test the package decompressing and executing it.
