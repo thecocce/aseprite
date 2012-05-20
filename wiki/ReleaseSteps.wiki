@@ -17,7 +17,7 @@ Here we've a simple list of steps to create a new release. It's for the main dis
 
 == Publish ==
 
-  * Upload packages to http://code.google.com/p/aseprite/downloads/entry
+  * Upload packages to http://code.google.com/p/aseprite/downloads/list
   * Update the ReleaseNotes page.
   * Create a blog entry with the main news.
   * Update the official site (http://www.aseprite.org/) with the new version.
