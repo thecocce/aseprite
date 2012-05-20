@@ -12,7 +12,7 @@
   * DONE ~~Copy/Paste/Selection/Transformation integration: Currently the "copy, paste, rotate & scale" workflow is unrelated with "select & move" feature. Should be possible to select a region and resize/rotate it (without the need to copy and paste)~~.
   * DONE ~~Integrate the paste operation with new transformation controller~~.
 
-== ASEPRITE 0.9.2 ==
+== ASEPRITE 0.9.x ==
 
   * Add undo to each transformation phase.
   * Shade drawing mode.
@@ -20,7 +20,7 @@
   * Projects management (settings per file, grid size, automatic sprite sheets import/export, etc.).
   * Implement [http://en.wikipedia.org/wiki/Image_scaling#RotSprite RotSprite] algorithm.
 
-== ASEPRITE 1.0 ==
+== ASEPRITE 1.x ==
 
   * Simplify multi-sprite editors handling: You should be able to drag & drop editors' tabs to split them horizontally or vertically (remove Ctrl+1, Ctrl+2, etc. shortcuts).
   * Add support for hotspots and "hot-rectangles".
