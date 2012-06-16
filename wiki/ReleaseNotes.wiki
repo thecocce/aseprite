@@ -4,6 +4,7 @@
 
 *Work-in-Progress*...
 
+  * Fix bug with Export Sprite Sheet when the cel is bigger than the sprite's size.
   * Fix regression bug: Enter/Tab/Escape keys don't work in list-boxes.
   * Fix bug showing "modified" status in the document tab.
 
