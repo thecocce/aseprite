@@ -1,0 +1,3 @@
+= Clear =
+
+To `Clear` the canvas, you can select `Edit > Clear` or use the keyboard shortcut `Del`.
