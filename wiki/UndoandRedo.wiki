@@ -1,0 +1,8 @@
+= Undo =
+
+To `Undo` actions, you can go to `Edit > Undo` or use the keyboard shortcut `Ctrl+Z`. 
+
+
+= Redo =
+
+To `Redo` actions, you can go to `Edit > Redo` or use the keyboard shortcut `Ctrl+Y`. 
