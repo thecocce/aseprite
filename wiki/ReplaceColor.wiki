@@ -1,0 +1,3 @@
+= Replace Color =
+
+To replace a color in the sprite, you can select `Edit > Replace Color` or use the keyboard shortcut `Shift+R`.
