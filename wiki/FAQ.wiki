@@ -14,3 +14,7 @@ If you want to edit images with the full screen resolution, you've a workaround:
 ==How do I move layers in the stack?==
 
 You've to use the _Animation Editor_. To open it you can press the `Tab` key or `View > Animation Editor` menu. Then you can drag-and-drop layers at the left side of the screen.
+
+==How do I export a .gif to a sequence of .png files?==
+
+You can open the `.gif` with `File > Open` and then select `File > Save` choosing a file name like `frame00.png`. When the operation is completed, you will get a sequence of files like `frame00.png`, `frame01.png`, `frame02.png`, etc.
