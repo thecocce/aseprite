@@ -9,6 +9,7 @@
   * Fix bug with Export Sprite Sheet when the cel is bigger than the sprite's size.
   * Fix regression bug: Enter/Tab/Escape keys don't work in list-boxes.
   * Fix bug showing "modified" status in the document tab.
+  * Fix issue 130: crash redoing a "convert to grayscale mode" command.
 
 == ASEPRITE 0.9.2 ==
 
