@@ -17,7 +17,7 @@ Or you can clone it from [http://github.com/ GitHub] using the `Fork` button in 
 
 ==Building ASEPRITE==
 
-You need [http://www.cmake.org/ CMake] (2.8.3 or later) and a compiler to build ASEPRITE source code. You can find the instructions to build ASEPRITE in [https://github.com/dacap/aseprite/blob/master/INSTALL.txt INSTALL.txt] file.
+You need [http://www.cmake.org/ CMake] (2.8.3 or later) and a compiler to build ASEPRITE source code. You can find the instructions to build ASEPRITE in [https://github.com/dacap/aseprite/blob/master/INSTALL.md INSTALL.md] file.
 
 The following is a list of tested environments where ASEPRITE was compiled successfully:
 
@@ -43,3 +43,5 @@ You can start working in any issue without a owner (remember to send an email to
 There are some open issues from the old SourceForge trackers too if you want to pick one of these:
   * [http://sourceforge.net/tracker/?group_id=20848&atid=120848 Bugs Tracker]
   * [http://sourceforge.net/tracker/?group_id=20848&atid=370848 Feature Requests Tracker]
+
+Also there are a [https://github.com/dacap/aseprite/blob/master/TODO.md TODO.md] file.
