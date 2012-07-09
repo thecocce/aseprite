@@ -89,12 +89,6 @@
      * [ConstantFrameRate Constant Frame Rate]
     * [SelectMenu Select]
     * [ViewMenu View]
-    * [HelpMenu Help]
-      * [QuickReference Quick Reference]
-      * [AsepriteWiki Wiki]
-      * [ReleaseNotes Release Notes]
-      * [Donate Donate]
-      * [AboutAseprite About]
   * [FAQ]
   * Customization
   * Development
