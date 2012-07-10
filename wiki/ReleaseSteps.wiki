@@ -28,4 +28,4 @@ Here we've a simple list of steps to create a new release. It's for the main dis
 On Windows
   * Go to `aseprite/..` folder.
   * Execute `sh aseprite/scripts/create_release.sh`
-  * Execute `cd aseprite/scripts ; sh upload_packages.sh`
+  * Execute `cd aseprite-VERSION/scripts ; sh upload_packages.sh`
