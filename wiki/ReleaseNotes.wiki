@@ -11,6 +11,7 @@
   * Fix bug showing "modified" status in the document tab.
   * Fix issue 130: crash redoing a "convert to grayscale mode" command.
   * Fix issue 44: problems browsing files when the option "hide extensions for known file types" is activated in Windows Explorer.
+  * Fix issue 129: Return to frame/layer where action is undone (configurable option).
 
 == ASEPRITE 0.9.2 ==
 
