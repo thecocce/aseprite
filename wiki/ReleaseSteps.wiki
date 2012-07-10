@@ -27,5 +27,12 @@ Here we've a simple list of steps to create a new release. It's for the main dis
 
 On Windows
   * Go to `aseprite/..` folder.
-  * Execute `sh aseprite/scripts/create_release.sh`
-  * Execute `cd aseprite-VERSION/scripts ; sh upload_packages.sh`
+  * Execute `aseprite/scripts/create_release.sh` script.
+  * Go to `aseprite-release-VERSION/scripts` directory.
+  * Execute `upload_packages.sh` script.
+
+On Mac OS X
+  * Edit version number in `config.h` and `data/gui.xml`.
+  * Recompile everything.
+  * Go to `scripts` folder.
+  * Execute `create_dmg.sh`
