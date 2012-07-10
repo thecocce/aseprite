@@ -11,7 +11,7 @@ Here we've a simple list of steps to create a new release. It's for the main dis
   * Create a new `build-VERSION` directory to compile this specific version.
   * Execute `cmake .. -G "NMake Makefiles"` in that directory. Modify flags (replace /MD with /MT) to use static C++ runtimes. Use `RelWithDebInfo` configuration, the compilation must include .pdb files so we can debug a memory dump in the future.
   * Compile with `nmake`. If something goes wrong, make a change and commit that change. Compile until it's everything ok.
-  * Create the distribution package executing the `misc/dist.sh` script.
+  * Create the distribution package executing the `scripts/create_packages.sh` script.
   * Test the package decompressing and executing it.
   * Create a tag in the commit used to create the package. The tag can be created after publishing the new version and checking that everything is OK.
 
@@ -22,3 +22,10 @@ Here we've a simple list of steps to create a new release. It's for the main dis
   * Create a blog entry with the main news.
   * Update the official site (http://www.aseprite.org/) with the new version.
   * Tweet the blog entry and create a post in Google+ linking the blog.
+
+= Automated =
+
+On Windows
+  * Go to `aseprite/..` folder.
+  * Execute `sh aseprite/scripts/create_release.sh`
+  * Execute `cd aseprite/scripts ; sh upload_packages.sh`
