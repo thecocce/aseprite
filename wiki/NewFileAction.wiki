@@ -4,7 +4,7 @@
 
 To create a new sprite you can select `File > New` menu option or press `Ctrl+N` keyboard shortcut. In this dialog you select:
 
-  * The `Width` and `Height` of the new sprite (in pixels). You can choose values from 1 to 9999 for each field.
+  * The `Width` and `Height` of the new sprite (in pixels). You can choose values from 1 to 65535 for each field.
   * The `Color Mode`, which basically says how many colors you will be able to put in the image.
       Note: With [http://en.wikipedia.org/wiki/RGB_color_model RGB] images you can have an independent color for each pixel, in this way each little pixel has its Red, Green, Blue and Alpha (opacity) values. With [http://en.wikipedia.org/wiki/Indexed_color Indexed] sprites have a special element associated: a [http://en.wikipedia.org/wiki/Palette_(computing) palette] (with a maximum of 256 colors), in this way each pixel has a palette entry associated, if you change the palette color, all pixels associated to that color will change their aspect. For pixel art, your selection should be _Indexed_.
   * The `Background` color to be used in the sprite.
