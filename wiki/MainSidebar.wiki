@@ -72,7 +72,7 @@
       * [NewLayer New Layer]
       * [RemoveLayer Remove Layer]
       * [BackgroundfromLayer Background From Layer]
-      * [LayerfromBackground Layer from Background]
+      * [LayerFromBackground Layer from Background]
       * [DuplicateLayer Duplicate]
       * [MergeLayers Merge Down]
       * [FlattenLayers Flatten]
