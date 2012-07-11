@@ -1,2 +1,7 @@
 #summary What is a sprite and how to create one.
 #sidebar MainSidebar
+
+= See =
+
+  * [BackgroundLayer Background Layer]
+  * [NewFileAction New file]
