@@ -1,0 +1,7 @@
+#summary About background color
+
+= Background Color =
+
+The background color is the one used to draw with the right mouse button. You can change this color pressing `Alt+Right click` or using the Eyedropper tool (`I key`) and doing a `Right click`.
+
+The background color is used in operation like [CutCopyPaste Cut] or [Clear Clear] to erase the [Background layer] in the [Selection selected region].
