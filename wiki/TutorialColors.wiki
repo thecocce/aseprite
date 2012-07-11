@@ -1,4 +1,8 @@
-#summary One-sentence summary of this page.
+#summary Learn about colors in ASEPRITE
+
+= Color-bar =
+
+The left-side of the screen contains the color-bar. Composed by the [Palette palette] and the [ForegroundColor foreground] and [BackgroundColor background color].
 
 = Copy and paste palette entries =
 
