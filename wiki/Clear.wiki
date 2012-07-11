@@ -1,3 +1,5 @@
 = Clear =
 
 To `Clear` the canvas, you can select `Edit > Clear` or use the keyboard shortcut `Del`.
+
+The current [BackgroundColor background color] is used to clear the canvas if you are in the [BackgroundLayer Background layer], or the [TransparentColor transparent color] is used in case that you are in a [TransparentLayer transparent layer].
