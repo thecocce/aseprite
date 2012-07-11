@@ -39,6 +39,8 @@
       * [NewFileAction New File]
       * [OpenFileAction Open File]
       * [SaveFileAction Save File]
+      * [ImportSpriteSheet Import Sprite Sheet]
+      * [ExportSpriteSheet Export Sprite Sheet]
     * [EditMenu Edit]
       * [UndoandRedo Undo/Redo]
       * [CutCopyPaste Cut/Copy/Paste]
