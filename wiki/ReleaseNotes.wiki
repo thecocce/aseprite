@@ -1,8 +1,10 @@
 #summary What is new in each version.
 
-== ASEPRITE 0.9.3 ==
+== ASEPRITE 0.9.4 ==
 
 *Work-in-Progress*...
+
+== ASEPRITE 0.9.3 ==
 
   * Now Shift key locks the X/Y axis when you drag & drop the selection.
   * Add support to load GIMP palettes (issue 112).
