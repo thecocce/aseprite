@@ -4,6 +4,9 @@
 
 *Work-in-Progress*...
 
+  * Fix regression bug introduced in 0.9.2: menu navigation using keyboard stopped working.
+  * Fix issue 143: Crash in "File > Open/Save" when aseprite.ini contains an invalid path.
+
 == ASEPRITE 0.9.3 ==
 
   * Now Shift key locks the X/Y axis when you drag & drop the selection.
