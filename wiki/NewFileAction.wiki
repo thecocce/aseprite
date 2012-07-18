@@ -2,6 +2,8 @@
 
 ==Create a Sprite==
 
+http://i.imgur.com/Gbw00.png
+
 To create a new sprite you can select `File > New` menu option or press `Ctrl+N` keyboard shortcut. In this dialog you select:
 
   * The `Width` and `Height` of the new sprite (in pixels). You can choose values from 1 to 65535 for each field.
