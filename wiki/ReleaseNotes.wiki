@@ -4,6 +4,7 @@
 
 *Work-in-Progress*...
 
+  * Added support to resize the color-bar.
   * Fix regression bug introduced in 0.9.2: menu navigation using keyboard stopped working.
   * Fix issue 143: Crash in "File > Open/Save" when aseprite.ini contains an invalid path.
 
