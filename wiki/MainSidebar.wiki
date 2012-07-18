@@ -39,6 +39,7 @@
       * [NewFileAction New File]
       * [OpenFileAction Open File]
       * [SaveFileAction Save File]
+      * [CloseFileAction Close]
       * [ImportSpriteSheet Import Sprite Sheet]
       * [ExportSpriteSheet Export Sprite Sheet]
     * [EditMenu Edit]
