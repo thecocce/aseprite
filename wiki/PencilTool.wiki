@@ -1,10 +1,9 @@
 
-
 = Pencil =
 
 http://i.imgur.com/x6LAJ.gif
 
-You can use this tool to freehand draw on your image.
+You can use this tool to freehand draw.
 
   # Press with the left mouse button for [ForegroundColor Foreground Color], and right mouse button for [BackgroundColor Background Color].
   # Drag the mouse to draw.
