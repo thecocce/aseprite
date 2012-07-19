@@ -12,9 +12,12 @@ You can use this tool to freehand draw lines or place individual pixels.
 
 == Tricks ==
 
-  * In indexed images, setting the transparent color as the foreground or background color, and then using the corresponding mouse button (left for foreground color, right for background), you can draw transparent pixels.
+  * In indexed images, setting the transparent color as the foreground or background color, and then using the corresponding mouse button (left for foreground color, right for background), allows you to draw with transparent pixels.
 
 
 == Cancel ==
 
 You can cancel the operation pressing the right button before you release the left one (or vice versa if you start the process using the right button).
+
+==Keyboard Shortcut==
+`B`
