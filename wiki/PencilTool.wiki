@@ -1,0 +1,16 @@
+#summary One-sentence summary of this page.
+
+= Pencil =
+
+http://i.imgur.com/x6LAJ.gif
+
+You can use this tool to freehand draw on your image.
+
+  # Press with the left mouse button for [ForegroundColor Foreground Color], and right mouse button for [BackgroundColor Background Color].
+  # Drag the mouse to draw.
+  # Release the mouse button.
+
+
+== Cancel ==
+
+You can cancel the operation pressing the right button before you release the left one (or viceversa if you start the process using the right button).
