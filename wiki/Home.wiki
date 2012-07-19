@@ -1,5 +1,7 @@
 #summary ASEPRITE Wiki front page.
 
-Welcome to ASEPRITE Wiki! The place where everyone can contribute! ...well, you need special permission from [http://code.google.com/u/davidcapello/ David Capello], but contact him, and after that, and you'll be able to contribute!
+=ASEPRITE Wiki=
+
+Welcome to ASEPRITE Wiki! The place where everyone can contribute! ...well, you need special permission from [http://code.google.com/u/davidcapello/ David Capello], but contact him, and after that you'll be able to contribute!
 
 <-- Use the sidebar at the left to navigate this wiki.
