@@ -19,3 +19,6 @@ You can use the following keys to change the behavior of the tool:
 == Cancel ==
 
 You can cancel the operation pressing the right button before you release the left one (or vice versa if you start the process using the right button).
+
+==Keyboard Shortcut==
+`M`
