@@ -14,14 +14,18 @@
 
 == ASEPRITE 0.9.x ==
 
+High priority:
+  * Simplify multi-sprite editors handling: You should be able to drag & drop editors' tabs to split them horizontally or vertically (remove Ctrl+1, Ctrl+2, etc. shortcuts).
+  * Projects management (settings per file, grid size, automatic sprite sheets import/export, etc.).
+  * Implement tile set editor as in issue #140
+
+Medium priority:
   * Add undo to each transformation phase.
   * Shade drawing mode.
   * Full palette control: several new options, improved editor, remap colors, more color control in cut/copy/paste operations between files, etc.
-  * Projects management (settings per file, grid size, automatic sprite sheets import/export, etc.).
   * Implement [http://en.wikipedia.org/wiki/Image_scaling#RotSprite RotSprite] algorithm.
 
 == ASEPRITE 1.x ==
 
-  * Simplify multi-sprite editors handling: You should be able to drag & drop editors' tabs to split them horizontally or vertically (remove Ctrl+1, Ctrl+2, etc. shortcuts).
   * Add support for hotspots and "hot-rectangles".
   * Export/import files to/from XML+PNG (my_sprite.xml + my_sprite_files/**.png).
