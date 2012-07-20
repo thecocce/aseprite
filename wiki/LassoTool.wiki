@@ -10,7 +10,7 @@ You can use this tool to freehand select areas in the following way:
 
 == Note ==
 
-When selecting an area, the Lasso tool will appear as a line using the current selected [ForegroundColor foreground color].
+When selecting an area, the Lasso tool will appear as a freehand line using the current selected [ForegroundColor foreground color].
 
 == Cancel ==
 
