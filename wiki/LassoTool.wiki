@@ -2,6 +2,8 @@
 
 = Lasso =
 
+http://i.imgur.com/0zwtn.gif
+
 You can use this tool to freehand select areas in the following way:
 
   # Press with the left mouse button.
