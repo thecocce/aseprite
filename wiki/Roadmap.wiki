@@ -27,5 +27,6 @@ Medium priority:
 
 == ASEPRITE 1.x ==
 
+  * Layers blending modes (like in ASE 0.7.2).
   * Add support for hotspots and "hot-rectangles".
   * Export/import files to/from XML+PNG (my_sprite.xml + my_sprite_files/**.png).
