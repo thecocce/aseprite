@@ -44,4 +44,4 @@ There are some open issues from the old SourceForge trackers too if you want to 
   * [http://sourceforge.net/tracker/?group_id=20848&atid=120848 Bugs Tracker]
   * [http://sourceforge.net/tracker/?group_id=20848&atid=370848 Feature Requests Tracker]
 
-Also there are a [https://github.com/dacap/aseprite/blob/master/TODO.md TODO.md] file.
+Also there are a [https://github.com/dacap/aseprite/blob/master/TODO.md TODO.md] file. And always remember to look the [Roadmap].
