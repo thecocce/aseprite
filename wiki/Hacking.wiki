@@ -19,29 +19,28 @@ docs/            Several .txt files (licenses, file formats) and the quickref.od
 misc/            Utility .sh scripts (generate ETAGS, generate new distribution, etc.).
 src/             ASEPRITE source code.
 third_party/     Third-party libraries.
-CMakeLists.txt   Main CMake file to build all the project & third part libraries.
+CMakeLists.txt   Main CMake file to build all the project & third party libraries.
 config.h
 }}}
 
-In src/ there are several modules, each one with different dependencies,
+In `src/` there are several modules, each one with different dependencies,
 purposes, and licenses:
 
 {{{
 src/
   allegro/       Customized Allegro library (from branch 4.4). This is not
-                 in third_part/ because there are several changes (this code
-                 cannot be updated with the).
+                 in third_part/ because there are several changes.
   app/
   base/          Base library with general purpose functions.
   commands/
     filters/
-  dialogs/
-  file/
+  dialogs/       Legacy dialogs (mostly not used, they will be removed).
+  file/          Routines to load/save image/animation files.
   filters/
   gfx/
   gui/
   modules/
-  net/           Mini wrapper of curl library to send HTTP requests.
+  net/           Mini-wrapper of curl library to send HTTP requests.
   raster/        Base classes to manage sprites, layers, cels, images, etc.
   settings/
   skin/
