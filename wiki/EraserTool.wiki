@@ -1,0 +1,20 @@
+#summary How to use the Eraser tool.
+
+= Eraser =
+
+You can use this tool to freehand erase lines or erase single pixels.
+
+  # Press with the left mouse button.
+  # Drag the mouse to erase.
+  # Release the mouse button.
+
+== Note ==
+
+If the layer you are using is a background layer, the eraser tool will use the background color. If the layer is not a background layer, the eraser tool will use transparency. 
+
+== Cancel ==
+
+You can cancel the operation pressing the right button before you release the left one.
+
+==Keyboard Shortcut==
+`E`
