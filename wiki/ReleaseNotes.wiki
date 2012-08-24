@@ -11,9 +11,9 @@
 == ASEPRITE 0.9.4 ==
 
   * Added support to resize the color-bar.
-  * Fix regression bug introduced in 0.9.2: menu navigation using keyboard stopped working.
-  * Fix issue 143: Crash in "File > Open/Save" when aseprite.ini contains an invalid path.
-  * Fix issue 160: Crash Undo-ing Layer Delete.
+  * Fixed regression bug introduced in 0.9.2: menu navigation using keyboard stopped working.
+  * Fixed issue 143: Crash in "File > Open/Save" when aseprite.ini contains an invalid path.
+  * Fixed issue 160: Crash Undo-ing Layer Delete.
 
 == ASEPRITE 0.9.3 ==
 
