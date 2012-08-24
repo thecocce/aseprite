@@ -1,8 +1,12 @@
 #summary What is new in each version.
 
-== ASEPRITE 0.9.5 ==
+== ASEPRITE 0.9.6 ==
 
 *Work-in-Progress*...
+
+== ASEPRITE 0.9.5 ==
+
+  * Fixed issue 163, issue 164, and issue 165.
 
 == ASEPRITE 0.9.4 ==
 
