@@ -111,6 +111,7 @@
         * [ViewPreview Preview]
   * [FAQ]
   * Customization
+    * [KeyboardCustomization]
   * Development
     * [Roadmap]
     * [SourceCode Source Code]
