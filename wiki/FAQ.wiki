@@ -1,5 +1,9 @@
 #summary Frequently asked questions.
 
+==How do I zoom?==
+
+Using keys `1`, `2`, `3`, `4`, `5`, `6` (those above the QWERTY keys), or the mouse wheel.
+
 ==Why do I see double-sized pixels?==
 
 Each ASEPRITE pixel uses 2x2 real pixels on the screen. It is designed in this way to reproduce look & feel of old sprite editors, and it is achieved only using this special configuration of pixels on the screen.
