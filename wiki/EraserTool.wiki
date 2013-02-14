@@ -10,7 +10,7 @@ You can use this tool to freehand erase lines or erase single pixels.
 
 == Note ==
 
-If the layer you are using is a background layer, the eraser tool will use the background color. If the layer is not a background layer, the eraser tool will use transparency. 
+If the layer you are using is a [BackgroundLayer background layer], the eraser tool will use the [BackgroundColor background color]. If the layer is not a background layer, the eraser tool will use [TransparentColor transparency].
 
 == Cancel ==
 
