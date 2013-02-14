@@ -12,6 +12,12 @@
   * DONE ~~Copy/Paste/Selection/Transformation integration: Currently the "copy, paste, rotate & scale" workflow is unrelated with "select & move" feature. Should be possible to select a region and resize/rotate it (without the need to copy and paste)~~.
   * DONE ~~Integrate the paste operation with new transformation controller~~.
 
+== Aseprite 0.9.6 ==
+
+  * Live animation preview in mini editor.
+  * Brushes.
+  * New Animation Editor UI.
+
 == Aseprite 0.9.x ==
 
 High priority:
