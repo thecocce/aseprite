@@ -2,22 +2,22 @@
 
 =Hacking=
 
-If you are here, is because you want to modify ASEPRITE source code to your own needs.
+If you are here, is because you want to modify Aseprite source code to your own needs.
 
 ==Compiling==
 
-First of all you need a working copy of ASEPRITE compiled with your own compiler. To this please see the [DevHelp] section.
+First of all you need a working copy of Aseprite compiled with your own compiler. To this please see the [DevHelp] section.
 
 ==Directories==
 
-The following is the way how files are organized in ASEPRITE's repository:
+The following is the way how files are organized in Aseprite's repository:
 
 {{{
 cmake/           Special modules for CMake.
 data/            Data distributed with the binaries (xml, icons, images, skins, etc.).
 docs/            Several .txt files (licenses, file formats) and the quickref.odt file.
 misc/            Utility .sh scripts (generate ETAGS, generate new distribution, etc.).
-src/             ASEPRITE source code.
+src/             Aseprite source code.
 third_party/     Third-party libraries.
 CMakeLists.txt   Main CMake file to build all the project & third party libraries.
 config.h

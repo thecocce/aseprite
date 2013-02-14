@@ -1,4 +1,4 @@
-#summary Changes in old versions of ASEPRITE. Only for historical purposes.
+#summary Changes in old versions of Aseprite. Only for historical purposes.
 
 == ASE 0.8.1 beta ==
 

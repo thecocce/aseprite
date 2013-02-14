@@ -1,4 +1,4 @@
-#summary Learn about colors in ASEPRITE
+#summary Learn about colors in Aseprite
 
 = Color-bar =
 

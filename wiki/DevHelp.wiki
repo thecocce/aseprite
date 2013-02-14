@@ -3,11 +3,11 @@
 
 =Helping=
 
-You can help making logos, icons, skins, and mockups for ASEPRITE. Also you can help with patches, or implementing features, or fixing bugs.
+You can help making logos, icons, skins, and mockups for Aseprite. Also you can help with patches, or implementing features, or fixing bugs.
 
 ==Getting the Source Code==
 
-If you want to help in ASEPRITE, first of all you will need a fresh copy of the Git repository. It is located in GitHub, here [https://github.com/dacap/aseprite github.com/dacap/aseprite].
+If you want to help in Aseprite, first of all you will need a fresh copy of the Git repository. It is located in GitHub, here [https://github.com/dacap/aseprite github.com/dacap/aseprite].
 
 On Windows you can use programs like [http://code.google.com/p/msysgit/ msysgit] or [http://code.google.com/p/gitextensions/ GitExtensions] to clone the repository. You can clone it locally using the following command (read-only URL):
 
@@ -15,11 +15,11 @@ On Windows you can use programs like [http://code.google.com/p/msysgit/ msysgit]
 
 Or you can clone it from [http://github.com/ GitHub] using the `Fork` button in [https://github.com/dacap/aseprite github.com/dacap/aseprite]. This can be useful if you want to maintain your own public branch.
 
-==Building ASEPRITE==
+==Building Aseprite==
 
-You need [http://www.cmake.org/ CMake] (2.8.3 or later) and a compiler to build ASEPRITE source code. You can find the instructions to build ASEPRITE in [https://github.com/dacap/aseprite/blob/master/INSTALL.md INSTALL.md] file.
+You need [http://www.cmake.org/ CMake] (2.8.3 or later) and a compiler to build Aseprite source code. You can find the instructions to build Aseprite in [https://github.com/dacap/aseprite/blob/master/INSTALL.md INSTALL.md] file.
 
-The following is a list of tested environments where ASEPRITE was compiled successfully:
+The following is a list of tested environments where Aseprite was compiled successfully:
 
   * Windows + MSVC 2005 + DirectX SDK
   * Windows + MSVC 2008 Express + DirectX SDK
