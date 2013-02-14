@@ -15,6 +15,6 @@ If you have already cloned the git repository from !SourceForge, you can switch 
 
   git remote set-url origin git://github.com/dacap/aseprite.git
 
-== Hacking ASEPRITE ==
+== Hacking Aseprite ==
 
-If you want to modify ASEPRITE source code, please refer to the [Hacking] section.
+If you want to modify Aseprite source code, please refer to the [Hacking] section.
