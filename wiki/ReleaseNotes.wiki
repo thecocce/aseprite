@@ -4,6 +4,8 @@
 
 *Work-in-Progress*...
 
+  * Fixed issue 212.
+
 == Aseprite 0.9.5 ==
 
   * Fixed issue 163, issue 164, and issue 165.
