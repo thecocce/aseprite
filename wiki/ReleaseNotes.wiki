@@ -4,6 +4,7 @@
 
 *Work-in-Progress*...
 
+  * Live animation preview in mini editor.
   * Fixed issue 212.
 
 == Aseprite 0.9.5 ==
