@@ -14,7 +14,7 @@
 
 == Aseprite 0.9.6 ==
 
-  * Live animation preview in mini editor.
+  * DONE ~~Live animation preview in mini editor~~.
   * Brushes.
   * New Animation Editor UI.
 
