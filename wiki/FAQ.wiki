@@ -22,3 +22,39 @@ You've to use the _Animation Editor_. To open it you can press the `Tab` key or 
 ==How do I export a .gif to a sequence of .png files?==
 
 You can open the `.gif` with `File > Open` and then select `File > Save` choosing a file name like `frame00.png`. When the operation is completed, you will get a sequence of files like `frame00.png`, `frame01.png`, `frame02.png`, etc.
+
+==Can I scroll with arrow keys?==
+
+You can scroll with Ctrl+arrow keys. The scroll amount is the tile size. If you want to scroll with arrow keys, for example, one pixel, you can modify the `data/gui.xml` file *adding* these lines in the `<commands>` section:
+{{{
+<commands>
+ <!-- ... -->
+ <key command="Scroll" shortcut="Left">
+  <param name="direction" value="left" />
+  <param name="units" value="zoomed-pixel" />
+  <param name="quantity" value="1" />
+ </key>
+ <key command="Scroll" shortcut="Right">
+  <param name="direction" value="right" />
+  <param name="units" value="zoomed-pixel" />
+  <param name="quantity" value="1" />
+ </key>
+ <key command="Scroll" shortcut="Up">
+  <param name="direction" value="up" />
+  <param name="units" value="zoomed-pixel" />
+  <param name="quantity" value="1" />
+ </key>
+ <key command="Scroll" shortcut="Down">
+  <param name="direction" value="down" />
+  <param name="units" value="zoomed-pixel" />
+  <param name="quantity" value="1" />
+ </key>
+</commands>
+}}}
+And *removing* these lines:
+{{{
+ <key command="GotoPreviousLayer" shortcut="Down" />
+ <key command="GotoNextLayer" shortcut="Up" />
+ <key command="GotoPreviousFrame" shortcut="Left" />
+ <key command="GotoNextFrame" shortcut="Right" />
+}}}
