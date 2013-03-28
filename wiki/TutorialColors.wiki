@@ -1,0 +1,8 @@
+#summary Learn about colors in Aseprite
+
+== Basic concepts ==
+
+  * [ForegroundColor Foreground Color]
+  * [BackgroundColor Background Color]
+  * [BackgroundLayer Transparent & Background Layer]
+  * [NewFileAction New file]
