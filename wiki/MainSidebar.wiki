@@ -110,7 +110,7 @@
         * [PaletteEditor Palette Editor]
         * [ViewPreview Preview]
   * [FAQ]
-  * Customization
+  * [Configuration]
     * [KeyboardCustomization Keyboard]
   * Development
     * [Roadmap]
