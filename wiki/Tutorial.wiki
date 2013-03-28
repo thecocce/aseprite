@@ -3,6 +3,13 @@
 
 _To-do: record videos about basic functionality_
 
+== Basic concepts ==
+
+  * [ForegroundColor Foreground Color]
+  * [BackgroundColor Background Color]
+  * [BackgroundLayer Transparent & Background Layer]
+  * [NewFileAction New file]
+
 == Color-bar ==
 
 The left-side of the screen contains the color-bar: it has the [Palette palette] and the [ForegroundColor foreground] and [BackgroundColor background color].
