@@ -1,6 +1,12 @@
 #summary Introduction to Aseprite through step by step tutorials.
 #sidebar MainSidebar
 
-These tutorials are a set of videos that explain you how to use Aseprite step by step. Here you will learn Aseprite terminology and how to use the different screen elements to create your own sprites.
+_To-do: record videos about basic functionality_
+
+== Color-bar ==
+
+The left-side of the screen contains the color-bar: it has the [Palette palette] and the [ForegroundColor foreground] and [BackgroundColor background color].
+
+== Tools & Menus ==
 
 If you need details about some specific application functionality, you can check [Tools] and [Menus] sections directly.
