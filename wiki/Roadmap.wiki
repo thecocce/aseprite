@@ -4,6 +4,7 @@
 == General Goals ==
 
   * Visible timeline in Sprite Editor (integrate the current Animation Editor to the Sprite Editor [https://plus.google.com/102156040653649496700/posts/hQ2VbGwUUny mockup]).
+  * Hotspots & slices.
   * Total palette control.
   * Tilemaps editor (issue #140, issue #59).
   * More functions for sprite sheets (e.g. [https://en.wikipedia.org/wiki/Sprite_(computer_graphics)#Sprites_by_CSS CSS Sprite Sheets]).
