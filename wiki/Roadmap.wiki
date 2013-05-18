@@ -1,6 +1,15 @@
 #summary What is expected for next releases.
 #sidebar MainSidebar
 
+== General Goals ==
+
+  * Total palette control.
+  * Tilemaps editor (issue #140, issue #59).
+  * More functions for sprite sheets (e.g. [https://en.wikipedia.org/wiki/Sprite_(computer_graphics)#Sprites_by_CSS CSS Sprite Sheets]).
+  * [http://en.wikipedia.org/wiki/Texture_atlas Texture atlases generation]
+  * [http://en.wikipedia.org/wiki/Parallax_scrolling Parallax scrolling] testing.
+  * Batch processing. E.g. Projects with several automated post-production process (e.g. automated build process to generate sprite sheets and texture atlases).
+
 == Aseprite 0.9 ==
 
   * DONE ~~Resizable window~~.
