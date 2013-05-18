@@ -4,6 +4,7 @@
 == General Goals ==
 
   * Visible timeline in Sprite Editor (integrate the current Animation Editor to the Sprite Editor [https://plus.google.com/102156040653649496700/posts/hQ2VbGwUUny mockup]).
+  * Implement [http://en.wikipedia.org/wiki/Image_scaling#RotSprite RotSprite] algorithm.
   * Hotspots & slices.
   * Total palette control.
   * Tilemaps editor (issue #140, issue #59).
@@ -28,6 +29,7 @@
   * DONE ~~Live animation preview in mini editor~~.
   * Brushes.
   * New Animation Editor UI.
+  * Implement [http://en.wikipedia.org/wiki/Image_scaling#RotSprite RotSprite] algorithm.
 
 == Aseprite 0.9.x ==
 
@@ -40,7 +42,6 @@ Medium priority:
   * Add undo to each transformation phase.
   * Shade drawing mode.
   * Full palette control: several new options, improved editor, remap colors, more color control in cut/copy/paste operations between files, etc.
-  * Implement [http://en.wikipedia.org/wiki/Image_scaling#RotSprite RotSprite] algorithm.
 
 == Aseprite 1.x ==
 
