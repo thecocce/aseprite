@@ -4,6 +4,10 @@
 
 Using keys `1`, `2`, `3`, `4`, `5`, `6` (those above the QWERTY keys), or the mouse wheel.
 
+==How do I scroll?==
+
+Pressing the mouse wheel (middle mouse button), or holding the space bar and drag & dropping with the left mouse button.
+
 ==Why do I see double-sized pixels?==
 
 Each Aseprite pixel uses 2x2 real pixels on the screen. It is designed in this way to reproduce look & feel of old sprite editors, and it is achieved only using this special configuration of pixels on the screen.
