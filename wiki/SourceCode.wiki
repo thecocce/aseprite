@@ -5,15 +5,15 @@
 
 The official source code is in github:
 
-  git clone git://github.com/dacap/aseprite.git
+  git clone git://github.com/aseprite/aseprite.git
 
-You can [http://github.com/dacap/aseprite browse the source code online].
+You can [http://github.com/aseprite/aseprite browse the source code online].
 
 == Migrating from SourceForge.net ==
 
 If you have already cloned the git repository from !SourceForge, you can switch the origin URL to github with the following command:
 
-  git remote set-url origin git://github.com/dacap/aseprite.git
+  git remote set-url origin git://github.com/aseprite/aseprite.git
 
 == Hacking Aseprite ==
 
