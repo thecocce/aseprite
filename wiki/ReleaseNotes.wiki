@@ -6,6 +6,7 @@
 
   * Live animation preview in mini editor (issue 105).
   * Fixed issue 212.
+  * Fixed issue 46 and issue 150.
 
 == Aseprite 0.9.5 ==
 
