@@ -1,14 +1,14 @@
 #summary Frequently asked questions.
 
-==How do I zoom?==
+==How do I zoom==
 
 Using keys `1`, `2`, `3`, `4`, `5`, `6` (those above the QWERTY keys), or the mouse wheel.
 
-==How do I scroll?==
+==How do I scroll==
 
 Pressing the mouse wheel (middle mouse button), or holding the space bar and drag & dropping with the left mouse button.
 
-==Why do I see double-sized pixels?==
+==Why do I see double-sized pixels==
 
 Each Aseprite pixel uses 2x2 real pixels on the screen. It is designed in this way to reproduce look & feel of old sprite editors, and it is achieved only using this special configuration of pixels on the screen.
 
@@ -19,15 +19,19 @@ If you want to edit images with the full screen resolution, you've a workaround:
   # Replace with `ScreenScale = 1`
   # Save, close the file, and run aseprite again
 
-==How do I move layers in the stack?==
+==Move layers in the stack==
 
 You've to use the _Animation Editor_. To open it you can press the `Tab` key or `View > Animation Editor` menu. Then you can drag-and-drop layers at the left side of the screen.
 
-==How do I export a .gif to a sequence of .png files?==
+==Export a .gif to a sequence of .png files==
 
 You can open the `.gif` with `File > Open` and then select `File > Save` choosing a file name like `frame00.png`. When the operation is completed, you will get a sequence of files like `frame00.png`, `frame01.png`, `frame02.png`, etc.
 
-==Can I scroll with arrow keys?==
+==Flip selection horizontally or vertically==
+
+You can use `Edit > Flip Horizontally` or `Edit > Flip Vertically` options.
+
+==Scroll with arrow keys==
 
 You can scroll with Ctrl+arrow keys. The scroll amount is the tile size. If you want to scroll with arrow keys, for example, one pixel, you can modify the `data/gui.xml` file *adding* these lines in the `<commands>` section:
 {{{
