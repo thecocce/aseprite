@@ -2,7 +2,9 @@
 
 =Hacking=
 
-If you are here, is because you want to modify Aseprite source code to your own needs.
+If you are here, is because you want to modify Aseprite source code to your own needs. The first thing to keep in main: checkout the `dev` branch. It's the branch we use to develop new features (and fix big issues that are planned for the next big release).
+
+In `master` branch should be small fixes that should be release ASAP. In any case, you can send a pull request to `dev` branch, then I cherry pick the small fixes for `master`.
 
 ==Compiling==
 
@@ -23,34 +25,4 @@ CMakeLists.txt   Main CMake file to build all the project & third party librarie
 config.h
 }}}
 
-In `src/` there are several modules, each one with different dependencies,
-purposes, and licenses:
-
-{{{
-src/
-  allegro/       Customized Allegro library (from branch 4.4). This is not
-                 in third_part/ because there are several changes.
-  app/
-  base/          Base library with general purpose functions.
-  commands/
-    filters/
-  dialogs/       Legacy dialogs (mostly not used, they will be removed).
-  file/          Routines to load/save image/animation files.
-  filters/
-  gfx/
-  gui/
-  modules/
-  net/           Mini-wrapper of curl library to send HTTP requests.
-  raster/        Base classes to manage sprites, layers, cels, images, etc.
-  settings/
-  skin/
-  tests/
-  tools/
-  undo/          Generic classes to control undo history of any object.
-  undoers/       Undoers (objects to undo actions) for document and raster objects.
-  util/
-  widgets/
-    editor/
-}}}
-
-==Dependencies==
+In `src/` there are several modules, each one with different dependencies, purposes, and licenses. See [https://github.com/aseprite/aseprite/tree/dev/src/#aseprite-source-code src/README.md] for more information.
