@@ -7,17 +7,17 @@ You can help making logos, icons, skins, and mockups for Aseprite. Also you can 
 
 ==Getting the Source Code==
 
-If you want to help in Aseprite, first of all you will need a fresh copy of the Git repository. It is located in GitHub, here [https://github.com/dacap/aseprite github.com/dacap/aseprite].
+If you want to help in Aseprite, first of all you will need a fresh copy of the Git repository. It is located in GitHub, here [https://github.com/dacap/aseprite github.com/aseprite/aseprite].
 
-On Windows you can use programs like [http://code.google.com/p/msysgit/ msysgit] or [http://code.google.com/p/gitextensions/ GitExtensions] to clone the repository. You can clone it locally using the following command (read-only URL):
+On Windows you can use programs like [http://msysgit.github.io/ msysgit] to clone the repository. You can clone it locally using the following command (read-only URL):
 
-  git clone git://github.com/dacap/aseprite.git
+  git clone git://github.com/aseprite/aseprite.git
 
-Or you can clone it from [http://github.com/ GitHub] using the `Fork` button in [https://github.com/dacap/aseprite github.com/dacap/aseprite]. This can be useful if you want to maintain your own public branch.
+Or you can clone it from [http://github.com/ GitHub] using the `Fork` button in [https://github.com/aseprite/aseprite github.com/aseprite/aseprite]. This can be useful if you want to maintain your own public branch.
 
 ==Building Aseprite==
 
-You need [http://www.cmake.org/ CMake] (2.8.3 or later) and a compiler to build Aseprite source code. You can find the instructions to build Aseprite in [https://github.com/dacap/aseprite/blob/master/INSTALL.md INSTALL.md] file.
+You need [http://www.cmake.org/ CMake] (2.8.3 or later) and a compiler to build Aseprite source code. You can find the instructions to build Aseprite in [https://github.com/aseprite/aseprite/blob/dev/INSTALL.md INSTALL.md] file.
 
 The following is a list of tested environments where Aseprite was compiled successfully:
 
@@ -44,4 +44,4 @@ There are some open issues from the old SourceForge trackers too if you want to 
   * [http://sourceforge.net/tracker/?group_id=20848&atid=120848 Bugs Tracker]
   * [http://sourceforge.net/tracker/?group_id=20848&atid=370848 Feature Requests Tracker]
 
-Also there are a [https://github.com/dacap/aseprite/blob/master/TODO.md TODO.md] file. And always remember to look the [Roadmap].
+Also there are a [https://github.com/aseprite/aseprite/blob/dev/TODO.md TODO.md] file. And always remember to look the [Roadmap].
