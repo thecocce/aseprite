@@ -9,7 +9,7 @@
   * Fixed issue 212: Remove frame doesn't displace frame durations
   * Fixed issue 239: Some performance improvements.
   * Fixed issue 277: Now you can change the default palette
-  * Fixed issue 279, issue 284 and issue 285.
+  * Fixed issue 279, issue 280, issue 284 and issue 285.
  
 == Aseprite 0.9.5 ==
 
