@@ -1,47 +1,5 @@
-#summary Guidelines for new developers, contributors, or artists.
-#sidebar MainSidebar
+#summary How to contribute to Aseprite
 
-=Helping=
+=Contributing=
 
-You can help making logos, icons, skins, and mockups for Aseprite. Also you can help with patches, or implementing features, or fixing bugs.
-
-==Getting the Source Code==
-
-If you want to help in Aseprite, first of all you will need a fresh copy of the Git repository. It is located in GitHub, here [https://github.com/dacap/aseprite github.com/aseprite/aseprite].
-
-On Windows you can use programs like [http://msysgit.github.io/ msysgit] to clone the repository. You can clone it locally using the following command (read-only URL):
-
-  git clone git://github.com/aseprite/aseprite.git
-
-Or you can clone it from [http://github.com/ GitHub] using the `Fork` button in [https://github.com/aseprite/aseprite github.com/aseprite/aseprite]. This can be useful if you want to maintain your own public branch.
-
-==Building Aseprite==
-
-You need [http://www.cmake.org/ CMake] (2.8.3 or later) and a compiler to build Aseprite source code. You can find the instructions to build Aseprite in [https://github.com/aseprite/aseprite/blob/dev/INSTALL.md INSTALL.md] file.
-
-The following is a list of tested environments where Aseprite was compiled successfully:
-
-  * Windows + MSVC 2005 + DirectX SDK
-  * Windows + MSVC 2008 Express + DirectX SDK
-  * Windows + MSVC 2010 Express + DirectX SDK
-  * Linux + GCC
-  * Mac OS X + GCC
-
-You will not need any extra library because the repository already contains the source code of all dependencies, even a modified version of the Allegro library is included in `master` branch (it is not true for `0.8` branch).
-
-==Mailing List==
-
-Subscribe to [http://groups.google.com/group/aseprite-discuss aseprite-discuss] group. If you want to start working in something, you should send an email to the group describing what you want to do, to avoid programming in something that is already done or which someone else is working on.
-
-Also you could get help from other developers about how to make what you want to implement. Remember to read [Hacking] section.
-
-==Issues==
-
-You can start working in any issue without a owner (remember to send an email to aseprite-discuss group so you can be assigned to the issue):
-  * [http://code.google.com/p/aseprite/issues/list List of issues]
-
-There are some open issues from the old SourceForge trackers too if you want to pick one of these:
-  * [http://sourceforge.net/tracker/?group_id=20848&atid=120848 Bugs Tracker]
-  * [http://sourceforge.net/tracker/?group_id=20848&atid=370848 Feature Requests Tracker]
-
-Also there are a [https://github.com/aseprite/aseprite/blob/dev/TODO.md TODO.md] file. And always remember to look the [Roadmap].
+See https://github.com/aseprite/aseprite/blob/dev/CONTRIBUTING.md file
