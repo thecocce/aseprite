@@ -105,9 +105,7 @@
     * [KeyboardCustomization Keyboard]
   * Development
     * [Roadmap]
-    * [SourceCode Source Code]
-    * [DevHelp What I can do?]
-    * [Hacking]
+    * [Contributing]
     * [ReleaseSteps Release Steps]
   * Wiki
     * [http://code.google.com/p/aseprite/w/list All Pages]
