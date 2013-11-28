@@ -5,7 +5,7 @@
 *Work-in-Progress*...
 
   * Live animation preview in mini editor (issue 105).
-  * Fixed issue 46 and issue 150: Unicode support on Windows for file names.
+  * Fixed issue 46, issue 150, and issue 294: Unicode support on Windows for file names.
   * Fixed issue 212: Remove frame doesn't displace frame durations
   * Fixed issue 239: Some performance improvements.
   * Fixed issue 277: Now you can change the default palette
