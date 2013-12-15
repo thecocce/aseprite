@@ -31,6 +31,8 @@ You can open the `.gif` with `File > Open` and then select `File > Save` choosin
 
 You can use `Edit > Flip Horizontally` or `Edit > Flip Vertically` options.
 
+http://i.imgur.com/okxOor9.gif
+
 ==Scroll with arrow keys==
 
 You can scroll with Ctrl+arrow keys. The scroll amount is the tile size. If you want to scroll with arrow keys, for example, one pixel, you can modify the `data/gui.xml` file *adding* these lines in the `<commands>` section:
