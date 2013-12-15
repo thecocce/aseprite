@@ -2,7 +2,7 @@
 
 = Pencil =
 
-http://i.imgur.com/x6LAJ.gif
+http://i.imgur.com/AgaUUfS.gif
 
 You can use this tool to freehand draw lines or place individual pixels.
 
