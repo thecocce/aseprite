@@ -33,9 +33,7 @@ You can open the `.gif` with `File > Open` and then select `File > Save` choosin
 
 ==Flip selection horizontally or vertically==
 
-You can use `Edit > Flip Horizontally` or `Edit > Flip Vertically` options.
-
-http://i.imgur.com/okxOor9.gif
+See [Flip] section.
 
 ==Scroll with arrow keys==
 
