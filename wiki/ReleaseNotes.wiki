@@ -9,7 +9,8 @@
     * Issue 182: Select/delete/edit properties of multiple frames/layers.
   * Export to JSON format from command line (issue 17). (A next version should contain the export feature from the UI.)
   * Live animation preview in mini editor (issue 105).
-  * Issue 121: Add [http://en.wikipedia.org/wiki/Image_scaling#RotSprite RotSprite] algorithm as a possibility to scale/rotate the selection.
+  * Add [http://en.wikipedia.org/wiki/Image_scaling#RotSprite RotSprite] algorithm as a possibility to scale/rotate the selection (issue 121).
+  * Added pixel-perfect drawing algorithm for pencil tool (issue 315)
   * Fixed issue 46 and issue 150: Unicode support on Windows for file names.
   * Fixed issue 46 and issue 294: Added Cyrillic script (Russian) and missing German Unicode characters.
   * Fixed issue 185: Fix crash when editing the color palette.
