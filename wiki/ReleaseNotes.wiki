@@ -9,6 +9,7 @@
     * Issue 182: Select/delete/edit properties of multiple frames/layers.
   * New context bar with useful options for the current drawing tool (issue 132).
   * Added (optional) scroll-bars to sprite editor (issue 260).
+  * Added option for Eye Dropper to grab alpha value (issue 134).
   * Export to JSON format from command line (issue 17). (A next version should contain the export feature from the UI.)
   * Live animation preview in mini editor (issue 105).
   * Add [http://en.wikipedia.org/wiki/Image_scaling#RotSprite RotSprite] algorithm as a possibility to scale/rotate the selection (issue 121).
