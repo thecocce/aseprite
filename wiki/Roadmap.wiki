@@ -3,15 +3,18 @@
 
 == General Goals ==
 
-  * Visible timeline in Sprite Editor (integrate the current Animation Editor to the Sprite Editor [https://plus.google.com/102156040653649496700/posts/hQ2VbGwUUny mockup]).
-  * Implement [http://en.wikipedia.org/wiki/Image_scaling#RotSprite RotSprite] algorithm.
+  * [http://en.wikipedia.org/wiki/Texture_atlas Texture atlases generation] (WIP)
   * Hotspots & slices.
   * Total palette control.
   * Tilemaps editor (issue #140, issue #59).
   * More functions for sprite sheets. E.g. [https://en.wikipedia.org/wiki/Sprite_(computer_graphics)#Sprites_by_CSS CSS Sprite Sheets], text tool + bitmap fonts ([https://github.com/GoodBoyDigital/pixi.js/blob/ae98487b164ed661a451cfa9a7f4bf3d1ffd2182/examples/example%2010%20-%20Text/desyrel.fnt possible format]), etc.
-  * [http://en.wikipedia.org/wiki/Texture_atlas Texture atlases generation]
   * [http://en.wikipedia.org/wiki/Parallax_scrolling Parallax scrolling] testing.
   * Batch processing. E.g. Projects with several automated post-production process (e.g. automated build process to generate sprite sheets and texture atlases).
+
+== Aseprite 0.9.6 ==
+
+  * DONE ~~Visible timeline in Sprite Editor (integrate the current Animation Editor to the Sprite Editor [https://plus.google.com/102156040653649496700/posts/hQ2VbGwUUny mockup]).~~
+  * DONE ~~Implement [http://en.wikipedia.org/wiki/Image_scaling#RotSprite RotSprite] algorithm.~~
 
 == Aseprite 0.9 ==
 
