@@ -3,7 +3,7 @@
 
 == General Goals ==
 
-  * [http://en.wikipedia.org/wiki/Texture_atlas Texture atlases generation] (WIP)
+  * [http://en.wikipedia.org/wiki/Texture_atlas Texture atlases generation] ([https://code.google.com/p/aseprite/issues/detail?id=17 WIP])
   * Hotspots & slices.
   * Total palette control.
   * Tilemaps editor (issue #140, issue #59).
