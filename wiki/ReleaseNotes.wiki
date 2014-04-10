@@ -2,7 +2,7 @@
 
 == Aseprite 1.0.0 ==
 
-**To be released soon**
+*To be released soon*
 
   * New Timeline, it's a work in progress of issue 293 (it replaces the Animation Editor):
     * Issue 110: Configurable onionskin settings.
