@@ -7,6 +7,7 @@
   * New Timeline, it's a work in progress of issue 293 (it replaces the Animation Editor):
     * Issue 110: Configurable onionskin settings.
     * Issue 182: Select/delete/edit properties of multiple frames/layers.
+    * Issue 97: Move/copy multiple layers/frames/cels simultaneously.
   * New context bar with useful options for the current drawing tool (issue 132).
   * Added (optional) scroll-bars to sprite editor (issue 260).
   * Added option for Eye Dropper to grab alpha value (issue 134).
