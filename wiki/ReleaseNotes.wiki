@@ -1,12 +1,6 @@
 #summary What is new in each version.
 
-== Aseprite 0.9.7 ==
-
-*Work-in-Progress*...
-
-== Aseprite 0.9.6 ==
-
-*Beta stage*
+== Aseprite 1.0.0 ==
 
   * New Timeline, it's a work in progress of issue 293 (it replaces the Animation Editor):
     * Issue 110: Configurable onionskin settings.
