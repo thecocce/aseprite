@@ -106,7 +106,6 @@
   * Development
     * [Roadmap]
     * [Contributing]
-    * [ReleaseSteps Release Steps]
   * Wiki
     * [http://code.google.com/p/aseprite/w/list All Pages]
     * [http://code.google.com/p/aseprite/source/list Changes]
