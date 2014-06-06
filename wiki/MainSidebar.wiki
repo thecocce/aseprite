@@ -3,12 +3,9 @@
   * [Home]
   * [ReleaseNotes Release Notes]
   * [FAQ]
-  * [Configuration]
-    * [KeyboardCustomization Keyboard]
   * Development
     * [Roadmap]
     * [Contributing]
   * Wiki
     * [http://code.google.com/p/aseprite/w/list All Pages]
     * [http://code.google.com/p/aseprite/source/list Changes]
-  * [Contributors]
