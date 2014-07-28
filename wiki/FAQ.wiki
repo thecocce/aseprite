@@ -1,5 +1,5 @@
 #summary Frequently asked questions.
 
-# New questions
+=New questions=
 
 New questions at http://www.aseprite.org/faq/#comments please
