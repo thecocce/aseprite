@@ -1,3 +1,3 @@
 #summary We are migrating issues
 
-We are migrating issues to Github: https://github.com/aseprite/aseprite/
+Issues were migrated to Github: https://github.com/aseprite/aseprite/issues
