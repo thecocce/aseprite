@@ -1,0 +1,1 @@
+Issues were migrated to Github: https://github.com/aseprite/aseprite/issues
